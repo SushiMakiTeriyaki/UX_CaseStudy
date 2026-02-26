@@ -1,4 +1,4 @@
-# DIU26
+# 
 Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
