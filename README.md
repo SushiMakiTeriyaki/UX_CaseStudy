@@ -39,7 +39,7 @@ Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Germán Delgado Fernández     :octocat:     
- * :bust_in_silhouette:  Javier Miñán Molina     :octocat:
+ * :bust_in_silhouette:  Javier Miñán Molina     :octocat: https://github.com/jminmol
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
