@@ -35,7 +35,6 @@ Descripción:
 
 Logotipo: 
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_1iivrt1iivrt1iiv" src="https://github.com/user-attachments/assets/ae80e526-1b56-4c17-936c-01a38cbe559a" />
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
