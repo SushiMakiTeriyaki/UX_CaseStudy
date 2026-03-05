@@ -61,16 +61,19 @@ Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la 
 
 1. Restaurante alto nivel con zona Buffet
  Esta parte es para los que vienen a disfrutar del buffet con reserva previa. La clave aquí es la tablet de la mesa:
+
    Perfil automático: Al llegar, la tablet ya sabe quién eres porque te reconoce por el correo de tu reserva.
+   
    Filtro de comida: Lo mejor es que la carta se adapta a ti. Si le dices a la App que eres alérgico al marisco o que no te gusta el picante, la tablet no muestra esos platos. De igual forma puedes añadir a la sección de favoritos o  eliminados diferentes platos.
+   
    Precios claros: El sistema cambia el precio del buffet solo según si es fin de semana, festivo o diario.
 
-2. Zona Rápida: Pedir, recoger y listo
+3. Zona Rápida: Pedir, recoger y listo
  Hemos creado un espacio pensado para la gente que tiene poco tiempo:
    Máquinas de autopedido: En lugar de esperar cola en un mostrador, vas directo a una pantalla, eliges tu sushi y pagas.
    Flexibilidad: Puedes sentarte en unas mesas preparadas específicamente para esta zona o llevártelo a donde quieras. Es sushi de alta calidad con la velocidad de la comida rápida.
    
-3. Servicio a Domicilio: Tu sushi favorito en casa
+4. Servicio a Domicilio: Tu sushi favorito en casa
  Si prefieres no moverte, la aplicación te permite pedir exactamente las piezas que quieras, una a una.
   Selección pieza a pieza: A diferencia del buffet, aquí tienes el control total para elegir exactamente las piezas que te apetecen, creando tu combinación ideal a medida.
   Seguimiento en tiempo real: Todo el proceso, desde la cocina hasta que el repartidor llega a tu puerta, se gestiona desde la App para que sepas exactamente cuándo llega tu cena.
