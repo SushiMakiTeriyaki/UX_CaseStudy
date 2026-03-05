@@ -74,7 +74,7 @@ Un espacio optimizado para usuarios con poco tiempo que no quieren renunciar a l
 * **Máquinas de autopedido:** Sin colas en el mostrador. El usuario selecciona su sushi en pantallas táctiles de forma visual y rápida.
 * **Flexibilidad de consumo:** El local cuenta con una zona de mesas exclusiva para esta modalidad, permitiendo elegir entre comer allí mismo o la opción *take-away*. Es la agilidad del *fast-food* aplicada al sushi premium.
 
-### 3. Servicio a Domicilio: Tu Sushi Favorito en Casa
+## 3. Servicio a Domicilio: Tu Sushi Favorito en Casa
 Para disfrutar de la experiencia sin desplazamientos, con un control total sobre el pedido.
 
 * **Selección pieza a pieza:** A diferencia del menú buffet, aquí el usuario puede configurar su pedido con total precisión, eligiendo exactamente las piezas que desea.
