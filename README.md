@@ -60,6 +60,7 @@ Miembros y nombre del equipo:
 Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la automatización del servicio y la personalización del cliente. Hemos dividido la experiencia en tres áreas muy claras, pensando siempre en la facilidad del cliente:
 
 1. Restaurante alto nivel con zona Buffet
+   
  Esta parte es para los que vienen a disfrutar del buffet con reserva previa. La clave aquí es la tablet de la mesa:
 
    Perfil automático: Al llegar, la tablet ya sabe quién eres porque te reconoce por el correo de tu reserva.
@@ -69,7 +70,8 @@ Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la 
    Precios claros: El sistema cambia el precio del buffet solo según si es fin de semana, festivo o diario.
 
 
-3. Zona Rápida: Pedir, recoger y listo
+2. Zona Rápida: Pedir, recoger y listo
+   
  Hemos creado un espacio pensado para la gente que tiene poco tiempo.
 
    Máquinas de autopedido: En lugar de esperar cola en un mostrador, vas directo a una pantalla, eliges tu sushi y pagas.
@@ -77,7 +79,8 @@ Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la 
    Flexibilidad: Puedes sentarte en unas mesas preparadas específicamente para esta zona o llevártelo a donde quieras. Es sushi de alta calidad con la velocidad de la comida rápida.
    
    
-5. Servicio a Domicilio: Tu sushi favorito en casa
+3. Servicio a Domicilio: Tu sushi favorito en casa
+   
  Si prefieres no moverte, la aplicación te permite pedir exactamente las piezas que quieras, una a una.
 
   Selección pieza a pieza: A diferencia del buffet, aquí tienes el control total para elegir exactamente las piezas que te apetecen, creando tu combinación ideal a medida.
