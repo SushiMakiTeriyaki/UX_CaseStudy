@@ -57,8 +57,6 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-# Sushi Maki: Innovación Gastronómica en Granada
-
 Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la **automatización del servicio** y la **personalización del cliente**. Hemos dividido la experiencia en tres áreas muy claras, pensando siempre en la facilidad del usuario:
 
 ---
@@ -73,7 +71,7 @@ Esta sección está diseñada para quienes buscan disfrutar de la experiencia co
 ### 2. Zona Rápida: Pedir, Recoger y Listo
 Un espacio optimizado para usuarios con poco tiempo que no quieren renunciar a la calidad.
 
-* **Kioscos de autopedido:** Sin colas en el mostrador. El usuario selecciona su sushi en pantallas táctiles de forma visual y rápida.
+* **Máquinas de autopedido:** Sin colas en el mostrador. El usuario selecciona su sushi en pantallas táctiles de forma visual y rápida.
 * **Flexibilidad de consumo:** El local cuenta con una zona de mesas exclusiva para esta modalidad, permitiendo elegir entre comer allí mismo o la opción *take-away*. Es la agilidad del *fast-food* aplicada al sushi premium.
 
 ### 3. Servicio a Domicilio: Tu Sushi Favorito en Casa
@@ -87,10 +85,11 @@ Para disfrutar de la experiencia sin desplazamientos, con un control total sobre
 ### 💳 Ecosistema de Fidelización Unificado
 Lo que hace único a **Sushi Maki** es que todos sus servicios están conectados para premiar al cliente:
 
-* **Omnicanalidad:** Uses el servicio que uses, siempre acumulas puntos en una sola cuenta.
-* **Identificación sencilla:** * **En Mesa/Domicilio:** Los puntos y descuentos se gestionan solos al estar logueado en la App.
-    * **En Máquina:** Basta con escanear el **código QR** generado por tu aplicación antes de pagar.
-* **Ahorro progresivo:** El sistema de "Puntos de Regalo" incentiva la recurrencia; cuanto más interactúas con la marca (en cualquier canal), mayores son los beneficios en tus siguientes pedidos.
+ **Unificación:** Uses el servicio que uses, siempre acumulas puntos en una sola cuenta.
+ **Identificación sencilla:**
+   **En Mesa/Domicilio:** Los puntos y descuentos se gestionan solos al estar logueado en la App.
+   **En Máquina:** Basta con escanear el **código QR** generado por tu aplicación antes de pagar.
+ **Ahorro progresivo:** El sistema de "Puntos de Regalo" incentiva la recurrencia; cuanto más interactúas con la marca (en cualquier canal), mayores son los beneficios en tus siguientes pedidos.
 
 
 ### 1.a User Reseach Plan
