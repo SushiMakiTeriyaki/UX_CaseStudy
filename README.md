@@ -27,11 +27,11 @@ Grupo: DIU1_SushiMakiTeriyaki.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Sushi Maki
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Sushi Maki se trata de un restaurante innovador de cocina japonesa en Granada que trata de fusionar la comida rápida con la elegancia de un restaurante de alto nivel. Trabajamos de diferentes formas pudiendo reservar una mesa en nuestro restaurante de estilo buffet, eligiendo tu sushi preferido al momento sin reserva para consumir en el local o para llevar o usando nuestro servicio a domicilio. En todas las opciones contamos con un sistema de puntos de fidelización, ofreciendo descuentos para todos los usuarios.
 
 Logotipo: 
 
@@ -57,7 +57,10 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Nuestra aplicación a desarrollar ofrecerá un apartado para realizar pedidos a domicilio o reservas a nuestro restaurante, que estará separado en tres secciones: 
+ - La primera, un espacio amplio destino a las reservas de tipo buffet y con un precio fijo dependiendo del día de la semana, festivos, etc. Los clientes dispondrán de una tablet con una cuenta generada automáticamente al reservar con su correo electrónico en la que podrán seleccionar las diferentes preferencias, como indicar alergias o gustos. Según las preferencias de cada cuenta se mostrarán todos los productos que se ofertan o se realiza una filtración, evitando mostrar productos indeseados.
+ - La segunda, un espacio pequeño con algunas mesas de estilo comida rápida que cuenta con una serie de máquinas (de carácter similar a las tablets de las mesas) para realizar pedidos y recogerlos en un mostrador, pudiendo comer en dichas mesas o pudiendo tomarlo para llevar. 
+ - La tercera, se trata de un servicio a domicilio dónde a través de la aplicación se podrá realizar pedidos eligiendo específicamente las piezas que se quieran.
 
 
 ### 1.a User Reseach Plan
