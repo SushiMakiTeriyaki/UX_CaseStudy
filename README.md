@@ -57,40 +57,40 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la automatización del servicio y la personalización del cliente. Hemos dividido la experiencia en tres áreas muy claras, pensando siempre en la facilidad del cliente:
+# Sushi Maki: Innovación Gastronómica en Granada
 
-1. Restaurante alto nivel con zona Buffet
-   
- Esta parte es para los que vienen a disfrutar del buffet con reserva previa. La clave aquí es la tablet de la mesa:
+Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la **automatización del servicio** y la **personalización del cliente**. Hemos dividido la experiencia en tres áreas muy claras, pensando siempre en la facilidad del usuario:
 
-   Perfil automático: Al llegar, la tablet ya sabe quién eres porque te reconoce por el correo de tu reserva.
-   
-   Filtro de comida: Lo mejor es que la carta se adapta a ti. Si le dices a la App que eres alérgico al marisco o que no te gusta el picante, la tablet no muestra esos platos. De igual forma puedes añadir a la sección de favoritos o  eliminados diferentes platos.
-   
-   Precios claros: El sistema cambia el precio del buffet solo según si es fin de semana, festivo o diario.
+---
 
+### 1. Restaurante de Alto Nivel con Zona Buffet
+Esta sección está diseñada para quienes buscan disfrutar de la experiencia completa con reserva previa. El núcleo tecnológico es la **tablet inteligente** integrada en la mesa:
 
-2. Zona Rápida: Pedir, recoger y listo
-   
- Hemos creado un espacio pensado para la gente que tiene poco tiempo.
+* **Perfil automático:** Al llegar, la tablet te identifica al instante a través del correo electrónico de tu reserva.
+* **Filtro inteligente de carta:** La oferta se adapta a tus necesidades. Si indicas en la App que tienes alergias (ej. marisco) o preferencias (ej. no picante), la tablet **oculta automáticamente** esos platos. Además, puedes gestionar tus secciones de **Favoritos** o **Eliminados** para personalizar tu menú.
+* **Precios dinámicos:** El sistema actualiza el coste del buffet de forma transparente según el calendario (diario, fin de semana o festivos).
 
-   Máquinas de autopedido: En lugar de esperar cola en un mostrador, vas directo a una pantalla, eliges tu sushi y pagas.
-   
-   Flexibilidad: Puedes sentarte en unas mesas preparadas específicamente para esta zona o llevártelo a donde quieras. Es sushi de alta calidad con la velocidad de la comida rápida.
-   
-   
-3. Servicio a Domicilio: Tu sushi favorito en casa
-   
- Si prefieres no moverte, la aplicación te permite pedir exactamente las piezas que quieras, una a una.
+### 2. Zona Rápida: Pedir, Recoger y Listo
+Un espacio optimizado para usuarios con poco tiempo que no quieren renunciar a la calidad.
 
-  Selección pieza a pieza: A diferencia del buffet, aquí tienes el control total para elegir exactamente las piezas que te apetecen, creando tu combinación ideal a medida.
-  
-  Seguimiento en tiempo real: Todo el proceso, desde la cocina hasta que el repartidor llega a tu puerta, se gestiona desde la App para que sepas exactamente cuándo llega tu cena.
+* **Kioscos de autopedido:** Sin colas en el mostrador. El usuario selecciona su sushi en pantallas táctiles de forma visual y rápida.
+* **Flexibilidad de consumo:** El local cuenta con una zona de mesas exclusiva para esta modalidad, permitiendo elegir entre comer allí mismo o la opción *take-away*. Es la agilidad del *fast-food* aplicada al sushi premium.
 
+### 3. Servicio a Domicilio: Tu Sushi Favorito en Casa
+Para disfrutar de la experiencia sin desplazamientos, con un control total sobre el pedido.
 
+* **Selección pieza a pieza:** A diferencia del menú buffet, aquí el usuario puede configurar su pedido con total precisión, eligiendo exactamente las piezas que desea.
+* **Seguimiento en tiempo real:** Gestión integral desde la App, permitiendo monitorizar el estado del pedido desde la cocina hasta la entrega en el domicilio.
 
-Todo conectado: Lo bueno es que uses el servicio que uses, siempre acumulas puntos.
-Puntos de regalo: Si pides por la máquina del local, escaneas tu código QR; si reservas mesa o pides a casa, como ya estás logueado en la App, los descuentos se te guardan solos. Así, cuanto más comes en Sushi Maki (sea donde sea), menos pagas en tu siguiente pedido.
+---
+
+### 💳 Ecosistema de Fidelización Unificado
+Lo que hace único a **Sushi Maki** es que todos sus servicios están conectados para premiar al cliente:
+
+* **Omnicanalidad:** Uses el servicio que uses, siempre acumulas puntos en una sola cuenta.
+* **Identificación sencilla:** * **En Mesa/Domicilio:** Los puntos y descuentos se gestionan solos al estar logueado en la App.
+    * **En Máquina:** Basta con escanear el **código QR** generado por tu aplicación antes de pagar.
+* **Ahorro progresivo:** El sistema de "Puntos de Regalo" incentiva la recurrencia; cuanto más interactúas con la marca (en cualquier canal), mayores son los beneficios en tus siguientes pedidos.
 
 
 ### 1.a User Reseach Plan
