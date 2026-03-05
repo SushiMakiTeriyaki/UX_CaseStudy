@@ -68,15 +68,22 @@ Para el desarrollo de esta plataforma, hemos analizado la convergencia entre la 
    
    Precios claros: El sistema cambia el precio del buffet solo según si es fin de semana, festivo o diario.
 
+
 3. Zona Rápida: Pedir, recoger y listo
- Hemos creado un espacio pensado para la gente que tiene poco tiempo:
+ Hemos creado un espacio pensado para la gente que tiene poco tiempo.
+
    Máquinas de autopedido: En lugar de esperar cola en un mostrador, vas directo a una pantalla, eliges tu sushi y pagas.
+   
    Flexibilidad: Puedes sentarte en unas mesas preparadas específicamente para esta zona o llevártelo a donde quieras. Es sushi de alta calidad con la velocidad de la comida rápida.
    
-4. Servicio a Domicilio: Tu sushi favorito en casa
+   
+5. Servicio a Domicilio: Tu sushi favorito en casa
  Si prefieres no moverte, la aplicación te permite pedir exactamente las piezas que quieras, una a una.
+
   Selección pieza a pieza: A diferencia del buffet, aquí tienes el control total para elegir exactamente las piezas que te apetecen, creando tu combinación ideal a medida.
+  
   Seguimiento en tiempo real: Todo el proceso, desde la cocina hasta que el repartidor llega a tu puerta, se gestiona desde la App para que sepas exactamente cuándo llega tu cena.
+
 
 Todo conectado: Lo bueno es que uses el servicio que uses, siempre acumulas puntos.
 Puntos de regalo: Si pides por la máquina del local, escaneas tu código QR; si reservas mesa o pides a casa, como ya estás logueado en la App, los descuentos se te guardan solos. Así, cuanto más comes en Sushi Maki (sea donde sea), menos pagas en tu siguiente pedido.
