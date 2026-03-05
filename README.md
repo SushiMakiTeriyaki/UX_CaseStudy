@@ -74,7 +74,14 @@ Nuestra aplicación a desarrollar ofrecerá un apartado para realizar pedidos a 
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para definir nuestra propuesta donde fusionamos ambos aspectos de la comida, hemos analizado dos referentes locales en Granada que representan los extremos de nuestro modelo de negocio: el restaurante tradicional/buffet y el fast-casual temático.
+
+Por un lado tenemos Natural Sushi con un modelo de negocio clásico y cuidado. Un lugar que transmite calidad y elegancia. Ideal para ir con tiempo, reservar mesa para una cena tranquila y disfrutar de la velada. Sin embargo su web suele ser muy estática y tradicional. No cuenta con un servicio de comida rápida par aquella gente que no tiene mucho tiempo y quiere algo rápido, debes gasta mucho tiempo forzosamente si quieres ir a comer.
+
+Por otro lado tenemos a Ramen Shifu con un modelo de negocio Fast-casual / Comida rápida temática. Muy interesante a simple vista mantiene una identidad visual muy potente (estética anime/callejera). Muy atractivo para público joven y pedidos rápidos. Sin embargo este modelo aleja a clientes que buscan tranquilidad y disfrutar de la comida, la sobrecarga visual y rápidez por pedir que implica estos lugares aleja a estas personas que buscan una experiencia "premium" o una cena más formal y relajada.
+
+Decisión: Nos hemos decantado por analizar a fondo la web de Natural Sushi para nuestra Revisión de Usabilidad. Hemos tomado esta decisión porque representa muy bien la "base" de nuestro producto (sushi de calidad y experiencia de sala elegante para esa gente que quiere disfrutar de la comida), pero carece por completo de la bimodalidad que queremos implementar, esa comida rápida que no lleve mucho tiempo. Nuestro proyecto pretende "arreglar" este enfoque tradicional: mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo (como en Natural Sushi), pero añadiremos un enfoque secundario, ágil y con toques anime , para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio.
+
 
 
 ### 1.c Personas
