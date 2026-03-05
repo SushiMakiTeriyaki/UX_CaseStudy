@@ -85,11 +85,11 @@ Para disfrutar de la experiencia sin desplazamientos, con un control total sobre
 ### 💳 Ecosistema de Fidelización Unificado
 Lo que hace único a **Sushi Maki** es que todos sus servicios están conectados para premiar al cliente:
 
- **Unificación:** Uses el servicio que uses, siempre acumulas puntos en una sola cuenta.
- **Identificación sencilla:**
-   **En Mesa/Domicilio:** Los puntos y descuentos se gestionan solos al estar logueado en la App.
-   **En Máquina:** Basta con escanear el **código QR** generado por tu aplicación antes de pagar.
- **Ahorro progresivo:** El sistema de "Puntos de Regalo" incentiva la recurrencia; cuanto más interactúas con la marca (en cualquier canal), mayores son los beneficios en tus siguientes pedidos.
+* **Unificación:** Uses el servicio que uses, siempre acumulas puntos en una sola cuenta.
+* **Identificación sencilla:**
+   * **En Mesa/Domicilio:** Los puntos y descuentos se gestionan solos al estar logueado en la App.
+   * **En Máquina:** Basta con escanear el **código QR** generado por tu aplicación antes de pagar.
+* **Ahorro progresivo:** El sistema de "Puntos de Regalo" incentiva la recurrencia; cuanto más interactúas con la marca (en cualquier canal), mayores son los beneficios en tus siguientes pedidos.
 
 
 ### 1.a User Reseach Plan
