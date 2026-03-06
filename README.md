@@ -27,11 +27,11 @@ Grupo: DIU1_SushiMakiTeriyaki.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
-Sushi Maki
+**Sushi Maki**
 
 Descripción: 
 
-Sushi Maki es una propuesta nueva en Granada que une lo mejor de dos mundos: la rapidez de un sitio de hamburguesas con la calidad de un restaurante japonés de nivel. Todo se gestiona desde una aplicación que te permite elegir cómo quieres comer: sentado tranquilamente en el buffet, pidiendo algo rápido para llevar o recibiéndolo en casa.
+Sushi Maki es una propuesta nueva en Granada que une lo mejor de dos mundos: la **rapidez** de un sitio de hamburguesas con la **calidad** de un restaurante japonés de nivel. Todo se gestiona desde una aplicación que te permite elegir cómo quieres comer: sentado tranquilamente en el buffet, pidiendo algo rápido para llevar o recibiéndolo en casa.
 
 Logotipo: 
 
