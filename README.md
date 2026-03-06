@@ -96,7 +96,16 @@ Lo que hace único a **Sushi Maki** es que todos sus servicios están conectados
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El proyecto seleccionado para la investigación es “Sushi Maki”, un concepto de restauración innovador en Granada que fusiona la cocina japonesa de alta calidad con la eficiencia tecnológica. Aunque nuestro enfoque principal es el desarrollo de la plataforma digital (App y tablets), nos acercamos a este proyecto desde una perspectiva de usuarios habituales de gastronomía asiática, lo que nos permite identificar de primera mano las frustraciones comunes en los buffets tradicionales y en los servicios de comida rápida.
+
+El objetivo principal de esta investigación es, además de garantizar una experiencia de usuario fluida y sin errores, validar cómo la tecnología puede personalizar la alimentación (especialmente en usuarios con alergias) y optimizar los tiempos de espera. Buscamos maximizar el uso de la aplicación tanto para reservas como para pedidos rápidos, logrando que el sistema de fidelización por puntos sea el motor que incentive la recurrencia de los clientes en cualquiera de nuestras tres modalidades (Buffet, Zona Rápida y Delivery).
+
+La estrategia que seguiremos estará basada en:
+
+  * Análisis comparativo (Benchmarking): Estudiaremos plataformas de éxito en comida rápida (como McDonald's) y sistemas de reserva de restaurantes de alto nivel.
+  * Creación de Personas: Diseñaremos perfiles ficticios (estudiantes, grupos de amigos y usuarios con necesidades dietéticas específicas) para entender sus motivaciones.
+  * User Journey Maps: Mapearemos el recorrido del cliente desde que siente hambre hasta que paga su cuenta, identificando puntos críticos donde la App puede aportar valor.
+  * Evaluación de usabilidad: Analizaremos los prototipos de la tablet y la App para asegurar que cualquier persona, independientemente de su habilidad tecnológica, pueda pedir su sushi sin ayuda.
 
 
 ### 1.b Competitive Analysis
