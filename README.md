@@ -102,10 +102,10 @@ El objetivo principal de esta investigación es, además de garantizar una exper
 
 La estrategia que seguiremos estará basada en:
 
-  * Análisis comparativo (Benchmarking): Estudiaremos plataformas de éxito en comida rápida (como McDonald's) y sistemas de reserva de restaurantes de alto nivel.
-  * Creación de Personas: Diseñaremos perfiles ficticios (estudiantes, grupos de amigos y usuarios con necesidades dietéticas específicas) para entender sus motivaciones.
-  * User Journey Maps: Mapearemos el recorrido del cliente desde que siente hambre hasta que paga su cuenta, identificando puntos críticos donde la App puede aportar valor.
-  * Evaluación de usabilidad: Analizaremos los prototipos de la tablet y la App para asegurar que cualquier persona, independientemente de su habilidad tecnológica, pueda pedir su sushi sin ayuda.
+  * Análisis de la competencia (Competitive Analysis): Vamos a mirar otros restaurantes parecidos en Granada, como Natural Sushi y Ramen Shifu. Queremos ver cómo lo hacen ellos para mezclar el servicio de mesa con la comida rápida y así encontrar ideas para que nuestra App sea mejor.
+  * Creación de personajes (Personas): Inventaremos dos clientes diferentes para entender qué necesitan. Por ejemplo: uno que tiene mucha prisa y quiere comer rápido, y otro que quiere ir con calma al buffet pero le preocupan sus alergias.
+  * Mapa del viaje del usuario (User Journey Map): Dibujaremos el "camino" que sigue el cliente desde que le entra hambre hasta que paga la cuenta. Analizaremos dos situaciones: ir a comer al restaurante o pedir a domicilio, para ver en qué momentos se puede agobiar y cómo ayudarle con la aplicación.
+  * Revisión de usabilidad: Analizaremos la web de un competidor usando una lista de puntos clave. Buscaremos fallos o cosas que sean difíciles de usar para asegurarnos de que en Sushi Maki todo sea mucho más fácil y cómodo.
 
 
 ### 1.b Competitive Analysis
