@@ -103,8 +103,8 @@ El objetivo principal de esta investigación es, además de garantizar una exper
 La estrategia que seguiremos estará basada en:
 
   * Análisis de la competencia (Competitive Analysis): Vamos a mirar otros restaurantes parecidos en Granada, como Natural Sushi y Ramen Shifu. Queremos ver cómo lo hacen ellos para mezclar el servicio de mesa con la comida rápida y así encontrar ideas para que nuestra App sea mejor.
-  * Creación de personajes (Personas): Inventaremos dos clientes diferentes para entender qué necesitan. Por ejemplo: uno que tiene mucha prisa y quiere comer rápido, y otro que quiere ir con calma al buffet pero le preocupan sus alergias.
-  * Mapa del viaje del usuario (User Journey Map): Dibujaremos el "camino" que sigue el cliente desde que le entra hambre hasta que paga la cuenta. Analizaremos dos situaciones: ir a comer al restaurante o pedir a domicilio, para ver en qué momentos se puede agobiar y cómo ayudarle con la aplicación.
+  * Creación de personajes (Personas): Inventaremos dos clientes diferentes para entender qué necesitan. 
+  * Mapa del viaje del usuario (User Journey Map): Dibujaremos el proceso que sigue el cliente desde que le entra hambre hasta que paga la cuenta. Analizaremos dos situaciones: ir a comer al restaurante o pedir a domicilio, para ver en qué momentos se puede agobiar y cómo ayudarle con la aplicación.
   * Revisión de usabilidad: Analizaremos la web de un competidor usando una lista de puntos clave. Buscaremos fallos o cosas que sean difíciles de usar para asegurarnos de que en Sushi Maki todo sea mucho más fácil y cómodo.
 
 
