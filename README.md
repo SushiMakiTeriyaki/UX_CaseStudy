@@ -128,6 +128,11 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+**Persona 1: John Smith **
+John es un analista financiero estadounidense que trabaja en remoto desde Granada. Representa nuestro **caso extremo** para la zona *Fast-Food*: un usuario hiperconectado, asocial y muy exigente que valora su tiempo por encima de todo. Su objetivo es comer sushi de alta calidad sin perder un solo minuto en interacciones tradicionales (esperar mesa, pedir a un camarero o esperar la cuenta). Si nuestra plataforma y el flujo automatizado del restaurante son lo suficientemente rápidos e intuitivos para que John complete su pedido sin frustrarse, habremos garantizado el éxito para cualquier usuario local que busque inmediatez.
+
+<img width="901" height="805" alt="image" src="https://github.com/user-attachments/assets/b9b19537-9ac5-423a-8d38-5215bc0b5ec3" />
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
