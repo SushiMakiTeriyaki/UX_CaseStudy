@@ -134,6 +134,12 @@ John es un analista financiero estadounidense que trabaja en remoto desde Granad
 
 <img width="901" height="805" alt="image" src="https://github.com/user-attachments/assets/b9b19537-9ac5-423a-8d38-5215bc0b5ec3" />
 
+**Persona 2: Sofía García**
+
+Sofía es una creadora de contenido granadina enfocada en el apoyo al comercio local. Representa nuestro caso extremo para la zona de Buffet Premium: una usuaria que huye de las prisas, valora la parte social de las comidas y detesta la masificación. Su prioridad es disfrutar de una experiencia personalizada y tranquila, donde pueda controlar al detalle lo que consume. Si nuestra interfaz y el sistema de reserva logran que Sofía se sienta en control de su tiempo y libre de interrupciones externas, habremos garantizado el éxito para cualquier usuario que busque una comida exclusiva, segura y de alta calidad.
+
+<img width="1600" height="1500" alt="Sofia" src="https://github.com/user-attachments/assets/38691f76-a5a4-4f74-9611-412c1dcf7e8a" />
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
