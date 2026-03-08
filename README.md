@@ -149,7 +149,7 @@ John es un analista financiero estadounidense que trabaja en remoto desde Granad
 
 Hemos diseñado dos *User Journey Maps* que representan los dos extremos de nuestro modelo de negocio híbrido. Hemos elegido estas dos experiencias porque reflejan situaciones muy habituales en el día a día y justifican la necesidad de tener una plataforma bimodal:
 
-**1. El viaje de John Smith (Perfil Ágil / Fast-Food):**
+**1. John Smith (Perfil Ágil / Fast-Food):**
 Esta experiencia refleja un escenario cada vez más común en las ciudades: profesionales o estudiantes que tienen el tiempo hipermedido pero que no quieren renunciar a comer con calidad. Hemos mapeado este viaje porque pone a prueba la eficiencia de nuestro diseño. Demuestra que existe un dolor real en el usuario impaciente al que le frustran los procesos tradicionales lentos, justificando así la creación de nuestro flujo de pedido rápido, automatizado y sin fricciones.
 
 
