@@ -140,8 +140,19 @@ John es un analista financiero estadounidense que trabaja en remoto desde Granad
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+**Persona 1: John Smith**
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+<img width="1172" height="763" alt="image" src="https://github.com/user-attachments/assets/50cc9912-0a0c-4a87-bad1-eeeb1f1d038d" />
+
+**Justificación de las experiencias seleccionadas:**
+
+Hemos diseñado dos *User Journey Maps* que representan los dos extremos de nuestro modelo de negocio híbrido. Hemos elegido estas dos experiencias porque reflejan situaciones muy habituales en el día a día y justifican la necesidad de tener una plataforma bimodal:
+
+**1. El viaje de John Smith (Perfil Ágil / Fast-Food):**
+Esta experiencia refleja un escenario cada vez más común en las ciudades: profesionales o estudiantes que tienen el tiempo hipermedido pero que no quieren renunciar a comer con calidad. Hemos mapeado este viaje porque pone a prueba la eficiencia de nuestro diseño. Demuestra que existe un dolor real en el usuario impaciente al que le frustran los procesos tradicionales lentos, justificando así la creación de nuestro flujo de pedido rápido, automatizado y sin fricciones.
+
+
+ 
 
 
 ### 1.e Usability Review
