@@ -147,9 +147,6 @@ Sofía es una creadora de contenido granadina enfocada en el apoyo al comercio l
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-**Persona 1: John Smith**
-
-<img width="1172" height="763" alt="image" src="https://github.com/user-attachments/assets/50cc9912-0a0c-4a87-bad1-eeeb1f1d038d" />
 
 **Justificación de las experiencias seleccionadas:**
 
@@ -158,8 +155,12 @@ Hemos diseñado dos *User Journey Maps* que representan los dos extremos de nues
 **1. John Smith (Perfil Ágil / Fast-Food):**
 Esta experiencia refleja un escenario cada vez más común en las ciudades: profesionales o estudiantes que tienen el tiempo hipermedido pero que no quieren renunciar a comer con calidad. Hemos mapeado este viaje porque pone a prueba la eficiencia de nuestro diseño. Demuestra que existe un dolor real en el usuario impaciente al que le frustran los procesos tradicionales lentos, justificando así la creación de nuestro flujo de pedido rápido, automatizado y sin fricciones.
 
+<img width="1172" height="763" alt="image" src="https://github.com/user-attachments/assets/50cc9912-0a0c-4a87-bad1-eeeb1f1d038d" />
 
+**2. Sofía García (Perfil Pausado / Social / Buffet Premium):**
+Esta experiencia representa el otro polo de nuestro modelo: el cliente que busca en la gastronomía un refugio y un evento social. Hemos seleccionado este viaje porque justifica la parte más tecnológica y personalizada de nuestra zona de buffet. El mapeo de Sofía demuestra que la tecnología sirve para dar autonomía y seguridad al comensal. Muestra la necesidad de integrar filtros de alérgenos y preferencias en la tablet para eliminar la presión, el agobio, y la duda para elegir, validando que Sushi Maki puede ser, al mismo tiempo, un entorno de máxima calma y control para el usuario.
  
+<img width="7486" height="4592" alt="UJM Sofia" src="https://github.com/user-attachments/assets/118c254f-3edc-4f8c-a453-81580b8acd50" />
 
 
 ### 1.e Usability Review
