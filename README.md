@@ -168,12 +168,15 @@ Esta experiencia representa el otro polo de nuestro modelo: el cliente que busca
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+* **Enlace al documento:**(./P1/nombre_de_tu_archivo.xls) 
+* **URL y competidor evaluado:** https://www.ramenshifu.com/
+* **Valoración numérica obtenida:** 64 / 100 (Moderate)
 
-<br>
+**Comentario sobre la revisión:**
+Tras realizar la evaluación heurística mediante el checklist, el competidor ha obtenido una puntuación de 64/100, lo que indica una usabilidad "Moderada". Esto significa que los usuarios pueden completar las tareas principales, pero la experiencia tiene un margen de mejora significativo.
+
+* **Puntos fuertes detectados:** Visualmente la web es atractiva para alguna personas demasiado llamativas, la página de inicio deja claro el concepto. Esto atrae a perfiles bastante neutros sin tener encuenta los peculiares.
+* **Puntos débiles detectados:** Hemos encontrado varias fricciones que afectan gravemente a usuarios impacientes (como nuestro perfil de Fast-Food, John), no mostrar la carta facilmente es perjudicial para atraer clientes con este perfil. La web no tiene demasiada funcionalidad es muy escueta y simple.
 
 ## Paso 2. UX Design  
 
