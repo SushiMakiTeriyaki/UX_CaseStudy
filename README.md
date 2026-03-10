@@ -132,7 +132,8 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 
 John es un analista financiero estadounidense que trabaja en remoto desde Granada. Representa nuestro **caso extremo** para la zona *Fast-Food*: un usuario hiperconectado, asocial y muy exigente que valora su tiempo por encima de todo. Su objetivo es comer sushi de alta calidad sin perder un solo minuto en interacciones tradicionales (esperar mesa, pedir a un camarero o esperar la cuenta). Si nuestra plataforma y el flujo automatizado del restaurante son lo suficientemente rápidos e intuitivos para que John complete su pedido sin frustrarse, habremos garantizado el éxito para cualquier usuario local que busque inmediatez.
 
-<img width="901" height="805" alt="image" src="https://github.com/user-attachments/assets/b9b19537-9ac5-423a-8d38-5215bc0b5ec3" />
+<img width="841" height="767" alt="image" src="https://github.com/user-attachments/assets/f5dd3370-c3bc-4a46-bced-f16f9a43a762" />
+
 
 **Persona 2: Sofía García**
 
