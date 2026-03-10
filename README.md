@@ -116,11 +116,11 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 
 **Natural Sushi:** con un modelo de negocio clásico y cuidado. Es un lugar que transmite calidad y elegancia, ideal para reservar mesa, ir con tiempo y disfrutar de una velada tranquila. Sin embargo su presencia digital suele ser muy estática y tradicional. No contempla un flujo de usuario ágil para comida rápida; el cliente está forzado a invertir mucho tiempo en el proceso de consumo, perdiendo al público que busca inmediatez.
 
-**Ramen Shifu:** con un modelo de negocio Fast-casual / Comida rápida temática. Es altamente atractivo para un público joven y está optimizado para pedidos rápidos. Muy atractivo para público joven y pedidos rápidos. Sin embargo este modelo ahuyentan al cliente que busca una experiencia gastronómica "premium", una cena formal y elegante o simplemente disfrutar de la comida con tranquilidad.
+**Ramen Shifu:** con un modelo de negocio Fast-casual / Comida rápida temática. Es altamente atractivo para un público joven y que no buscan una esperiencia gastronomica elevada. Este modelo ahuyentan al cliente que busca una experiencia gastronómica "premium", una cena formal y elegante o simplemente disfrutar de la comida con tranquilidad.
 
-**Decisión:** Nos hemos decantado por analizar a fondo la web de Natural Sushi para nuestra Revisión de Usabilidad. Hemos tomado esta decisión porque representa muy bien la "base" de nuestro producto (sushi de calidad y experiencia de sala elegante para esa gente que quiere disfrutar de la comida), pero carece por completo de la bimodalidad que queremos implementar, esa comida rápida que no lleve mucho tiempo. 
+**Decisión:** Nos hemos decantado por analizar a fondo la web de Ramen Shifu para nuestra Revisión de Usabilidad. Hemos tomado esta decisión porque se queda en un punto medio de lo que queremos ofrecer. No es el servicio más rápido posible ni tampoco ofrece una experiencia gastronomica única por lo que es un caso perfecto para analizar y poder mejorarlo. 
 
-**Conclusión:** Nuestro proyecto pretende "arreglar" este enfoque tradicional, mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo (como en Natural Sushi), pero añadiremos un enfoque secundario, ágil y rápido, para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio sin perder tiempo en exceso.
+**Conclusión:** Nuestro proyecto pretende "arreglar" este enfoque tradicional de Natural Shusi, mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo, pero añadiremos un enfoque secundario, ágil y rápido, para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio sin perder tiempo en exceso, mejorando lo que ofrece Ramen Shifu
 
 <img width="1289" height="907" alt="image" src="https://github.com/user-attachments/assets/13c5dc32-b4e5-4cb9-9e6c-9e8fcb5e2ca8" />
 
