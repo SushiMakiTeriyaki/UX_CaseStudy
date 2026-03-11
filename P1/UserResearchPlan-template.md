@@ -24,35 +24,25 @@ Para que sea profesional, tu plan debe responder a estas secciones:
   * Entender las necesidades de dos perfiles opuestos: el usuario que tiene prisa (John) y el que busca una experiencia social y segura (Sofía).
 
 - **Experiencia del equipo / justificación:**
-  * Como diseñador: He trabajado en el diseño de los perfiles de usuario (Personas) y en el mapeo de sus experiencias (User Journey Maps) para asegurar que la App solucione problemas reales, como la falta de filtros de alérgenos y la lentitud en los pagos.
-  * Como stakeholder: He definido la estrategia de un modelo de negocio híbrido que busca el equilibrio entre la rentabilidad de la zona de comida rápida y la exclusividad del buffet premium, asegurando que la tecnología reduzca costes operativos y mejore la satisfacción del cliente.
+  * Como diseñador: Hemos trabajado en el diseño de los perfiles de usuario (Personas) y en el mapeo de sus experiencias (User Journey Maps) para asegurar que la App solucione problemas reales, como la falta de filtros de alérgenos y la lentitud en los pagos.
+  * Como stakeholder: Hemos definido la estrategia de un modelo de negocio híbrido que busca el equilibrio entre la rentabilidad de la zona de comida rápida y la exclusividad del buffet premium, asegurando que la tecnología reduzca costes operativos y mejore la satisfacción del cliente.
   * Como observadores: Hemos detectado que las webs actuales de la competencia son muy visuales pero fallan en la parte técnica, como la validación de datos o la claridad en los procesos de reserva.
-
 
 
 #### 2. Metodología (The "How")
 
-INdicar las herramientas a utilizar, p.e. 
+- **Análisis Comparativo (Benchmarking):** Estudio de referentes locales en Granada para entender el mercado.
+- **Revisión de Usabilidad (Checklist):** Evaluación técnica de la web de Ramen Shifu utilizando una lista de 45 puntos de control para detectar errores reales de navegación y formularios.
+- **User Journey Mapping:** Mapeo de las experiencias de nuestros usuarios para identificar "puntos de dolor" en el proceso de pedido y pago.
 
-- **Cuantitativa:** El cuestionario **SUS** para obtener una nota numérica.
-- **Biométrica:** **Eye Tracking** para ver el comportamiento visual real.
-- **Comparativa:** El **A/B Testing** para medir tu diseño contra el de tu compañero.
-
-Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
-
-
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
-
-ref: https://www.nngroup.com/articles/which-ux-research-methods/
 
 #### 3. Perfil de los Participantes (The "Who")
 
-Define a quién vas a reclutar.
+Hemos definido dos "Personas" que representan a nuestro público objetivo:
 
-- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
-  
-- **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
+* **John Smith:** 29 años, analista, busca eficiencia máxima y mínimo contacto humano.
+
+* **Sofía García:** 27 años, influencer, busca tranquilidad, apoyo al comercio local y seguridad alimentaria (alérgenos).
 
 
 
