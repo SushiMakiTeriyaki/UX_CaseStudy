@@ -48,11 +48,11 @@ Hemos definido dos "Personas" que representan a nuestro público objetivo:
 
 #### 4. Guion y Tareas (The "What")
 
-¿Qué le vas a pedir al usuario que haga exactamente?
+Aunque estamos en fase de análisis, las tareas clave que nuestra futura App debe resolver sin errores son:
 
-- "Busca el producto X y añádelo al carrito".
-  
-- "Encuentra el horario de apertura de la tienda".
+1. **Pedido Express:** Completar un pedido para recoger en menos de 1 minuto.
+2. **Reserva con Filtros:** Reservar una mesa en el buffet y poder filtrar la carta por alérgenos de forma sencilla.
+3. **Pago Autónomo:** Finalizar el pago desde la propia interfaz sin depender de la asistencia de un camarero..
   
 
 
