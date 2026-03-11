@@ -100,7 +100,7 @@ El proyecto seleccionado para la investigación es “Sushi Maki”, un concepto
 
 El objetivo principal de esta investigación es, además de garantizar una experiencia de usuario fluida y sin errores, validar cómo la tecnología puede personalizar la alimentación (especialmente en usuarios con alergias) y optimizar los tiempos de espera. Buscamos maximizar el uso de la aplicación tanto para reservas como para pedidos rápidos, logrando que el sistema de fidelización por puntos sea el motor que incentive la recurrencia de los clientes en cualquiera de nuestras tres modalidades (Buffet, Zona Rápida y Delivery).
 
-[Enlace al archivo:](./P1/UserResearchPlan-template.md) 
+Enlace al archivo: [Research Plan](./P1/UserResearchPlan-template.md) 
 
 
 ### 1.b Competitive Analysis
