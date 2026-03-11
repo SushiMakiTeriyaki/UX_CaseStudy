@@ -23,15 +23,10 @@ Para que sea profesional, tu plan debe responder a estas secciones:
   * Analizar los fallos de usabilidad de la competencia (Ramen Shifu) para no repetirlos en nuestro diseño.
   * Entender las necesidades de dos perfiles opuestos: el usuario que tiene prisa (John) y el que busca una experiencia social y segura (Sofía).
 
-- **Experiencia del equipo / justificación**
-
-> tipología:
->
-> > como diseñador (he creado productos similares... )
-
->> como stakeholder (he tenido experiencia al ser parte de .... )
-
- * Como observadores: Hemos detectado que las webs actuales de la competencia son muy visuales pero fallan en la parte técnica, como la validación de datos o la claridad en los procesos de reserva.
+- **Experiencia del equipo / justificación:**
+  * Como diseñador: He trabajado en el diseño de los perfiles de usuario (Personas) y en el mapeo de sus experiencias (User Journey Maps) para asegurar que la App solucione problemas reales, como la falta de filtros de alérgenos y la lentitud en los pagos.
+  * Como stakeholder: He definido la estrategia de un modelo de negocio híbrido que busca el equilibrio entre la rentabilidad de la zona de comida rápida y la exclusividad del buffet premium, asegurando que la tecnología reduzca costes operativos y mejore la satisfacción del cliente.
+  * Como observadores: Hemos detectado que las webs actuales de la competencia son muy visuales pero fallan en la parte técnica, como la validación de datos o la claridad en los procesos de reserva.
 
 
 
