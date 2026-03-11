@@ -100,12 +100,7 @@ El proyecto seleccionado para la investigación es “Sushi Maki”, un concepto
 
 El objetivo principal de esta investigación es, además de garantizar una experiencia de usuario fluida y sin errores, validar cómo la tecnología puede personalizar la alimentación (especialmente en usuarios con alergias) y optimizar los tiempos de espera. Buscamos maximizar el uso de la aplicación tanto para reservas como para pedidos rápidos, logrando que el sistema de fidelización por puntos sea el motor que incentive la recurrencia de los clientes en cualquiera de nuestras tres modalidades (Buffet, Zona Rápida y Delivery).
 
-La estrategia que seguiremos estará basada en:
-
-  * Análisis de la competencia (Competitive Analysis): Vamos a mirar otros restaurantes parecidos en Granada, como Natural Sushi y Ramen Shifu. Queremos ver cómo lo hacen ellos para mezclar el servicio de mesa con la comida rápida y así encontrar ideas para que nuestra App sea mejor.
-  * Creación de personajes (Personas): Inventaremos dos clientes diferentes para entender qué necesitan. 
-  * Mapa del viaje del usuario (User Journey Map): Dibujaremos el proceso que sigue el cliente desde que le entra hambre hasta que paga la cuenta. Analizaremos dos situaciones: ir a comer al restaurante o pedir a domicilio, para ver en qué momentos se puede agobiar y cómo ayudarle con la aplicación.
-  * Revisión de usabilidad: Analizaremos la web de un competidor usando una lista de puntos clave. Buscaremos fallos o cosas que sean difíciles de usar para asegurarnos de que en Sushi Maki todo sea mucho más fácil y cómodo.
+Enlace al archivo: P1/UserReserachPlan-template.md 
 
 
 ### 1.b Competitive Analysis
