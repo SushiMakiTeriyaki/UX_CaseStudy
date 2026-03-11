@@ -19,7 +19,7 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 - **Contexto:** Estamos sentando las bases de Sushi Maki, un modelo de negocio que combina comida rápida y buffet premium. Necesitamos entender cómo funcionan otros restaurantes similares en Granada y qué necesitan nuestros usuarios potenciales antes de diseñar la App definitiva.
 
-- **Objetivos de investigación:** ** Analizar los fallos de usabilidad de la competencia (Ramen Shifu) para no repetirlos en nuestro diseño. ** Entender las necesidades de dos perfiles opuestos: el usuario que tiene prisa (John) y el que busca una experiencia social y segura (Sofía).
+- **Objetivos de investigación:** - Analizar los fallos de usabilidad de la competencia (Ramen Shifu) para no repetirlos en nuestro diseño. - Entender las necesidades de dos perfiles opuestos: el usuario que tiene prisa (John) y el que busca una experiencia social y segura (Sofía).
 
 - **Experiencia del equipo / justificación**
 
