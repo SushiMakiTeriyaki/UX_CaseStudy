@@ -41,7 +41,6 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 Hemos definido dos "Personas" que representan a nuestro público objetivo:
 
 * **John Smith:** 29 años, analista, busca eficiencia máxima y mínimo contacto humano.
-
 * **Sofía García:** 27 años, influencer, busca tranquilidad, apoyo al comercio local y seguridad alimentaria (alérgenos).
 
 
@@ -59,10 +58,12 @@ Aunque estamos en fase de análisis, las tareas clave que nuestra futura App deb
 
 #### 5. Cronograma y Entregables
 
-> Simplemente enumerar los entrañables que se suponen se van a desarrollar con el estudio
+Los documentos que forman parte de este estudio y que se entregan en esta fase son:
 
-- p.e.  **Usability Report** final con las recomendaciones de mejora.
-
+* **Análisis de Competencia:** Comparativa de referentes locales.
+* **Fichas de Personas:** Perfiles detallados de John y Sofía.
+* **User Journey Maps:** Recorrido visual de ambos usuarios.
+* **Usability Review:** Pdf con la auditoría técnica de Ramen Shifu.
 
 
 
