@@ -31,7 +31,7 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 >> como stakeholder (he tenido experiencia al ser parte de .... )
 
->> como observador/oir a la gente (observo que....)
+ * Como observadores: Hemos detectado que las webs actuales de la competencia son muy visuales pero fallan en la parte técnica, como la validación de datos o la claridad en los procesos de reserva.
 
 
 
