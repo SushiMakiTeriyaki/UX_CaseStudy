@@ -117,7 +117,8 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 
 **Conclusión:** Nuestro proyecto pretende "arreglar" este enfoque tradicional de Natural Shusi, mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo, pero añadiremos un enfoque secundario, ágil y rápido, para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio sin perder tiempo en exceso, mejorando lo que ofrece Ramen Shifu
 
-<img width="1289" height="907" alt="image" src="https://github.com/user-attachments/assets/13c5dc32-b4e5-4cb9-9e6c-9e8fcb5e2ca8" />
+<img width="1020" height="859" alt="image" src="https://github.com/user-attachments/assets/d67e8549-fef3-43fd-9a60-c4d72f273588" />
+
 
 
 ### 1.c Personas
