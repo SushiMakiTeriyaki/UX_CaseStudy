@@ -159,6 +159,8 @@ Esta experiencia representa el otro polo de nuestro modelo: el cliente que busca
  
 <img width="7486" height="4592" alt="UJM Sofia" src="https://github.com/user-attachments/assets/118c254f-3edc-4f8c-a453-81580b8acd50" />
 
+Enlace al archivo: [Sofia Journey Map](P1/User%20Journey%20Map/UJM%20Sofia.png)
+
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
@@ -173,6 +175,8 @@ Tras realizar la evaluación heurística mediante el checklist, el competidor ha
 
 * **Puntos fuertes detectados:** Visualmente la web es atractiva para alguna personas demasiado llamativas, la página de inicio deja claro el concepto. Esto atrae a perfiles bastante neutros sin tener encuenta los peculiares.
 * **Puntos débiles detectados:** Hemos encontrado varias fricciones que afectan gravemente a usuarios impacientes (como nuestro perfil de Fast-Food, John), no mostrar la carta facilmente es perjudicial para atraer clientes con este perfil. La web no tiene demasiada funcionalidad es muy escueta y simple.
+
+Enlace al archivo: [Usability Review](P1/Usability%20Review/Usability-review-template.pdf)
 
 ## Paso 2. UX Design  
 
