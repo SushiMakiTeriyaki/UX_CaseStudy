@@ -154,6 +154,8 @@ Esta experiencia refleja un escenario cada vez más común en las ciudades: prof
 
 <img width="1172" height="763" alt="image" src="https://github.com/user-attachments/assets/50cc9912-0a0c-4a87-bad1-eeeb1f1d038d" />
 
+Enlace al archivo: [John Journey Map](P1/User%20Journey%20Map/UJM%20John.pdf)
+
 **2. Sofía García (Perfil Pausado / Social / Buffet Premium):**
 Esta experiencia representa el otro polo de nuestro modelo: el cliente que busca en la gastronomía un refugio y un evento social. Hemos seleccionado este viaje porque justifica la parte más tecnológica y personalizada de nuestra zona de buffet. El mapeo de Sofía demuestra que la tecnología sirve para dar autonomía y seguridad al comensal. Muestra la necesidad de integrar filtros de alérgenos y preferencias en la tablet para eliminar la presión, el agobio, y la duda para elegir, validando que Sushi Maki puede ser, al mismo tiempo, un entorno de máxima calma y control para el usuario.
  
