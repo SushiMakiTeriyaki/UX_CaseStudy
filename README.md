@@ -117,6 +117,8 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 
 <img width="1020" height="859" alt="image" src="https://github.com/user-attachments/assets/d67e8549-fef3-43fd-9a60-c4d72f273588" />
 
+Enlace al archivo: [Competitive Analysis](P1/Competitive%Analysis/AnalisisCompetitivo.png)
+
 
 
 ### 1.c Personas
