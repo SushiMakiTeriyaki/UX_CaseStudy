@@ -105,15 +105,15 @@ Enlace al archivo: [Research Plan](./P1/User%20Research%20Plan/UserResearchPlan.
 ![Método UX](img/Competitive.png) 
 -----
 
-Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hemos analizado dos referentes locales en Granada que representan los extremos de nuestro modelo de negocio: el restaurante tradicional/buffet y el fast-casual temático.
+Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hemos analizado dos referentes locales en Granada que representan la idea de nuestro modelo de negocio: el restaurante tradicional/buffet y el fast-casual temático.
 
 **Natural Sushi:** con un modelo de negocio clásico y cuidado. Es un lugar que transmite calidad y elegancia, ideal para reservar mesa, ir con tiempo y disfrutar de una velada tranquila. Sin embargo su presencia digital suele ser muy estática y tradicional. No contempla un flujo de usuario ágil para comida rápida; el cliente está forzado a invertir mucho tiempo en el proceso de consumo, perdiendo al público que busca inmediatez.
 
-**Ramen Shifu:** con un modelo de negocio Fast-casual / Comida rápida temática. Es altamente atractivo para un público joven y que no buscan una esperiencia gastronomica elevada. Este modelo ahuyentan al cliente que busca una experiencia gastronómica "premium", una cena formal y elegante o simplemente disfrutar de la comida con tranquilidad.
+**Ramen Shifu:** con un modelo de negocio ágil con temática. Es altamente atractivo para un público joven y que no buscan una esperiencia gastronomica elevada. Este modelo ahuyentan a estos cliente que busca una experiencia gastronómica "premium", una cena formal y elegante o simplemente disfrutar de la comida con tranquilidad.
 
 **Decisión:** Nos hemos decantado por analizar a fondo la web de Ramen Shifu para nuestra Revisión de Usabilidad. Hemos tomado esta decisión porque se queda en un punto medio de lo que queremos ofrecer. No es el servicio más rápido posible ni tampoco ofrece una experiencia gastronomica única por lo que es un caso perfecto para analizar y poder mejorarlo. 
 
-**Conclusión:** Nuestro proyecto pretende "arreglar" este enfoque tradicional de Natural Shusi, mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo, pero añadiremos un enfoque secundario, ágil y rápido, para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio sin perder tiempo en exceso, mejorando lo que ofrece Ramen Shifu
+**Conclusión:** Nuestro proyecto pretende "arreglar" este enfoque tradicional de Natural Shusi, mantendremos la elegancia para el usuario que quiere reservar mesa y comer tranquilo, pero añadiremos un enfoque secundario, ágil y rápido, para el usuario que busca pedir rapidamente en el local o hasta con el movil a domicilio sin perder tiempo en exceso, mejorando lo que ofrece Ramen Shifu.
 
 <img width="1020" height="859" alt="image" src="https://github.com/user-attachments/assets/d67e8549-fef3-43fd-9a60-c4d72f273588" />
 
