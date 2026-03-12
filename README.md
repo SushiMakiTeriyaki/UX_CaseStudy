@@ -168,7 +168,7 @@ Enlace al archivo: [Sofia Journey Map](P1/User%20Journey%20Map/UJM%20Sofia.png)
 ![Método UX](img/usabilityReview.png) 
 ----
 
-* **Enlace al documento:**(./P1/nombre_de_tu_archivo.xls) 
+* **Enlace al documento:** [Usability Review](P1/Usability%20Review/Usability-review-template.pdf)
 * **URL y competidor evaluado:** https://www.ramenshifu.com/
 * **Valoración numérica obtenida:** 64 / 100 (Moderate)
 
@@ -177,8 +177,6 @@ Tras realizar la evaluación heurística mediante el checklist, el competidor ha
 
 * **Puntos fuertes detectados:** Visualmente la web es atractiva para alguna personas demasiado llamativas, la página de inicio deja claro el concepto. Esto atrae a perfiles bastante neutros sin tener encuenta los peculiares.
 * **Puntos débiles detectados:** Hemos encontrado varias fricciones que afectan gravemente a usuarios impacientes (como nuestro perfil de Fast-Food, John), no mostrar la carta facilmente es perjudicial para atraer clientes con este perfil. La web no tiene demasiada funcionalidad es muy escueta y simple.
-
-Enlace al archivo: [Usability Review](P1/Usability%20Review/Usability-review-template.pdf)
 
 ## Paso 2. UX Design  
 
