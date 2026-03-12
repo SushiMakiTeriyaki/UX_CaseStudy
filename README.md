@@ -130,6 +130,7 @@ John es un analista financiero estadounidense que trabaja en remoto desde Granad
 
 <img width="841" height="767" alt="image" src="https://github.com/user-attachments/assets/f5dd3370-c3bc-4a46-bced-f16f9a43a762" />
 
+Enlace al archivo: [John](P1/Personas/John.png)
 
 **Persona 2: Sofía García**
 
@@ -137,8 +138,7 @@ Sofía es una creadora de contenido granadina enfocada en el apoyo al comercio l
 
 <img width="1600" height="1500" alt="Sofia" src="https://github.com/user-attachments/assets/38691f76-a5a4-4f74-9611-412c1dcf7e8a" />
 
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Enlace al archivo: [Sofía](P1/Personas/Sofia.png)
 
 
 ### 1.d User Journey Map
