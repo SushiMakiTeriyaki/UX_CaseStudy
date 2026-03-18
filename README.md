@@ -98,7 +98,7 @@ El proyecto seleccionado para la investigación es “Sushi Maki”, un concepto
 
 El objetivo principal de esta investigación es, además de garantizar una experiencia de usuario fluida y sin errores, validar cómo la tecnología puede personalizar la alimentación (especialmente en usuarios con alergias) y optimizar los tiempos de espera. Buscamos maximizar el uso de la aplicación tanto para reservas como para pedidos rápidos, logrando que el sistema de fidelización por puntos sea el motor que incentive la recurrencia de los clientes en cualquiera de nuestras tres modalidades (Buffet, Zona Rápida y Delivery).
 
-Enlace al archivo: [Research Plan](./P1/User%20Research%20Plan/UserResearchPlan.md) 
+Enlace al archivo: [Research Plan](./P1/1.%20User%20Research%20Plan/UserResearchPlan.md) 
 
 
 ### 1.b Competitive Analysis
@@ -117,7 +117,7 @@ Para definir nuestra propuesta, en la que fusionamos dos modelos de consumo, hem
 
 <img width="1020" height="859" alt="image" src="https://github.com/user-attachments/assets/d67e8549-fef3-43fd-9a60-c4d72f273588" />
 
-Enlace al archivo: [Competitive Analysis](P1/Competitive%20Analysis/AnalisisCompetitivo.png)
+Enlace al archivo: [Competitive Analysis](P1/2.%20Competitive%20Analysis/AnalisisCompetitivo.png)
 
 
 
@@ -130,7 +130,7 @@ John es un analista financiero estadounidense que trabaja en remoto desde Granad
 
 <img width="841" height="767" alt="image" src="https://github.com/user-attachments/assets/f5dd3370-c3bc-4a46-bced-f16f9a43a762" />
 
-Enlace al archivo: [John](P1/Personas/John.png)
+Enlace al archivo: [John](P1/3.%20Personas/John.png)
 
 **Persona 2: Sofía García**
 
@@ -138,7 +138,7 @@ Sofía es una creadora de contenido granadina enfocada en el apoyo al comercio l
 
 <img width="1600" height="1500" alt="Sofia" src="https://github.com/user-attachments/assets/38691f76-a5a4-4f74-9611-412c1dcf7e8a" />
 
-Enlace al archivo: [Sofía](P1/Personas/Sofia.png)
+Enlace al archivo: [Sofía](P1/3.%20Personas/Sofia.png)
 
 
 ### 1.d User Journey Map
@@ -154,21 +154,21 @@ Esta experiencia refleja un escenario cada vez más común en las ciudades: prof
 
 <img width="1172" height="763" alt="image" src="https://github.com/user-attachments/assets/50cc9912-0a0c-4a87-bad1-eeeb1f1d038d" />
 
-Enlace al archivo: [John Journey Map](P1/User%20Journey%20Map/UJM%20John.pdf)
+Enlace al archivo: [John Journey Map](P1/4.%20User%20Journey%20Map/UJM%20John.pdf)
 
 **2. Sofía García (Perfil Pausado / Social / Buffet Premium):**
 Esta experiencia representa el otro polo de nuestro modelo: el cliente que busca en la gastronomía un refugio y un evento social. Hemos seleccionado este viaje porque justifica la parte más tecnológica y personalizada de nuestra zona de buffet. El mapeo de Sofía demuestra que la tecnología sirve para dar autonomía y seguridad al comensal. Muestra la necesidad de integrar filtros de alérgenos y preferencias en la tablet para eliminar la presión, el agobio, y la duda para elegir, validando que Sushi Maki puede ser, al mismo tiempo, un entorno de máxima calma y control para el usuario.
  
 <img width="7486" height="4592" alt="UJM Sofia" src="https://github.com/user-attachments/assets/118c254f-3edc-4f8c-a453-81580b8acd50" />
 
-Enlace al archivo: [Sofia Journey Map](P1/User%20Journey%20Map/UJM%20Sofia.png)
+Enlace al archivo: [Sofia Journey Map](P1/4.%20User%20Journey%20Map/UJM%20Sofia.png)
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
-* **Enlace al documento:** [Usability Review](P1/Usability%20Review/Usability-review-template.pdf)
+* **Enlace al documento:** [Usability Review](P1/5.%20Usability%20Review/Usability-review-template.pdf)
 * **URL y competidor evaluado:** https://www.ramenshifu.com/
 * **Valoración numérica obtenida:** 64 / 100 (Moderate)
 
