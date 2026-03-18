@@ -93,8 +93,7 @@ Lo que hace único a **Sushi Maki** es que todos sus servicios están conectados
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
-El proyecto seleccionado para la investigación es “Sushi Maki”, un concepto de restauración innovador en Granada que fusiona la cocina japonesa de alta calidad con la eficiencia tecnológica. Aunque nuestro enfoque principal es el desarrollo de la plataforma digital (App y tablets), nos acercamos a este proyecto desde una perspectiva de usuarios habituales de gastronomía asiática, lo que nos permite identificar de primera mano las frustraciones comunes en los buffets tradicionales y en los servicios de comida rápida.
+Nuestro proyecto es “Sushi Maki”, un concepto de restauración innovador en Granada que fusiona la cocina japonesa de alta calidad con la eficiencia tecnológica. Aunque nuestro enfoque principal es el desarrollo de la plataforma digital (App y tablets), nos acercamos a este proyecto desde una perspectiva de usuarios habituales de gastronomía asiática, lo que nos permite identificar de primera mano las frustraciones comunes en los buffets tradicionales y en los servicios de comida rápida.
 
 El objetivo principal de esta investigación es, además de garantizar una experiencia de usuario fluida y sin errores, validar cómo la tecnología puede personalizar la alimentación (especialmente en usuarios con alergias) y optimizar los tiempos de espera. Buscamos maximizar el uso de la aplicación tanto para reservas como para pedidos rápidos, logrando que el sistema de fidelización por puntos sea el motor que incentive la recurrencia de los clientes en cualquiera de nuestras tres modalidades (Buffet, Zona Rápida y Delivery).
 
