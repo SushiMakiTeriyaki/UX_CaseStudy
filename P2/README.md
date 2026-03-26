@@ -9,6 +9,8 @@
 #### Feedback Capture Grid
 
   Tras el análisis de la competencia, hemos detectado que no existe una gran unión entre la estética de la web y su utilidad funcional. Mientras que visualmente es atractiva, técnicamente frustra al usuario. Nuestra malla receptora organiza estos hallazgos para centrar el rediseño en la eficiencia y la seguridad alimentaria.
+
+Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
   
 
 ### PROPUESTA DE VALOR
