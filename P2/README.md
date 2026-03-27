@@ -37,6 +37,12 @@ Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
 <img width="1918" height="1282" alt="imagen" src="https://github.com/user-attachments/assets/8ca9f325-1a7e-4429-9241-1667d80ce789" />
 
 Enlace al archivo: [Empathy Map John](1.%20Reframing/EmpathyCustomerMapJohn.pdf)
+
+  * Sofía García (Perfil "Alto Nivel"): Representa la necesidad de seguridad y confianza. Como influencer celíaca, su relación con la comida es visual pero también técnica. En su mapa observamos que la falta de transparencia en los ingredientes de la competencia le genera una vulnerabilidad. No busca rapidez, sino una experiencia estética que la haga sentirse cuidada y segura. Para ella, el "lujo" digital es no tener que preguntar por los alérgenos porque la App ya sabe quién es ella y qué puede comer.
+
+
+
+Enlace al archivo: [Empathy Map Sofia](1.%20Reframing/EmpathyCustomerMapSofia.pdf)
   
 
 ### PROPUESTA DE VALOR
