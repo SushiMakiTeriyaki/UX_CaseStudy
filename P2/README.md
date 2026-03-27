@@ -32,7 +32,8 @@ Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
 
   Para ello, hemos analizado los contextos de nuestros dos perfiles clave, cuyas frustraciones con la competencia (Ramen Shifu) nos han servido de base para diseñar una solución real:
 
-  * John Smith (Perfil Rápido): Representa al usuario cuya prioridad absoluta es la gestión del tiempo. Para John, la tecnología no debe ser un adorno, sino una herramienta de precisión. Su mapa de empatía refleja una lucha constante contra la fricción: odia los procesos que le obligan a repetir tareas (como rellenar datos) o que le expulsan a entornos externos lentos. Su comportamiento está marcado por la eficiencia, y cualquier segundo de retraso en la carga o en el pago se traduce en abandono.
+  * John Smith (Perfil Rápido): Representa al usuario cuya prioridad absoluta es la gestión del tiempo. Para John, la tecnología no debe ser un adorno, sino una herramienta de precisión. Su mapa de empatía refleja una lucha constante contra la fricción: odia los procesos que le obligan a repetir tareas o que le expulsan a entornos externos lentos. Su comportamiento está marcado por la eficiencia, y cualquier segundo de retraso en la carga o en el pago se traduce en abandono.
+    
   
 
 ### PROPUESTA DE VALOR
