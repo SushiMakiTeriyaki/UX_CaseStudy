@@ -21,6 +21,10 @@
 <img width="1704" height="1055" alt="imagen" src="https://github.com/user-attachments/assets/da2064c2-42ab-413d-a5aa-94b115f69e68" />
 
 Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
+
+  Un problema identificado es que la web de la competencia no se adapta a los diferentes contextos de uso de los usuarios. Para perfiles como John, cuya prioridad es la eficiencia, la dependencia de terceros y la falta de validación de datos suponen una barrera de tiempo inasumible. Por otro lado, para perfiles como Sofía, la ausencia de herramientas de filtrado genera desconfianza y una carga cognitiva innecesaria al tener que buscar ingredientes manualmente.
+
+  Se propone una experiencia bimodal adaptativa que logre reducir los pasos y simplifique el proceso para usuarios con prisa (John) y que garantice la seguridad, claridad y personalización para usuarios que buscan una experiencia pausada y segura (Sofía). De esta manera, mejoraremos la conversión y satisfacción rediseñando la experiencia web en una plataforma capaz de transformarse según el contexto, permitiendo elegir entre la modalidad preferida y facilitando la gestión total del servicio (pedido, fidelización y pago) sin salir del ecosistema de Sushi Maki.
   
 
 ### PROPUESTA DE VALOR
