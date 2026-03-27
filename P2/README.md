@@ -33,7 +33,10 @@ Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
   Para ello, hemos analizado los contextos de nuestros dos perfiles clave, cuyas frustraciones con la competencia (Ramen Shifu) nos han servido de base para diseñar una solución real:
 
   * John Smith (Perfil Rápido): Representa al usuario cuya prioridad absoluta es la gestión del tiempo. Para John, la tecnología no debe ser un adorno, sino una herramienta de precisión. Su mapa de empatía refleja una lucha constante contra la fricción: odia los procesos que le obligan a repetir tareas o que le expulsan a entornos externos lentos. Su comportamiento está marcado por la eficiencia, y cualquier segundo de retraso en la carga o en el pago se traduce en abandono.
-    
+
+<img width="1918" height="1282" alt="imagen" src="https://github.com/user-attachments/assets/8ca9f325-1a7e-4429-9241-1667d80ce789" />
+
+Enlace al archivo: [Empathy Map John](1.%20Reframing/EmpathyCustomerMapJohn.pdf)
   
 
 ### PROPUESTA DE VALOR
