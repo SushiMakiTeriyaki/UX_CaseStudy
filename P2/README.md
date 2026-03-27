@@ -25,6 +25,14 @@ Enlace al archivo: [Feedback](1.%20Reframing/FeedbackCaptureGrid.pdf)
   Un problema identificado es que la web de la competencia no se adapta a los diferentes contextos de uso de los usuarios. Para perfiles como John, cuya prioridad es la eficiencia, la dependencia de terceros y la falta de validación de datos suponen una barrera de tiempo inasumible. Por otro lado, para perfiles como Sofía, la ausencia de herramientas de filtrado genera desconfianza y una carga cognitiva innecesaria al tener que buscar ingredientes manualmente.
 
   Se propone una experiencia bimodal adaptativa que logre reducir los pasos y simplifique el proceso para usuarios con prisa (John) y que garantice la seguridad, claridad y personalización para usuarios que buscan una experiencia pausada y segura (Sofía). De esta manera, mejoraremos la conversión y satisfacción rediseñando la experiencia web en una plataforma capaz de transformarse según el contexto, permitiendo elegir entre la modalidad preferida y facilitando la gestión total del servicio (pedido, fidelización y pago) sin salir del ecosistema de Sushi Maki.
+
+#### Empathy Map
+
+  Tras la fase de investigación, hemos transformado los datos abstractos en perfiles humanos mediante el uso de mapas de empatía. El objetivo es ir más allá de lo que el usuario hace y profundizar en lo que siente y necesita cuando se enfrenta a una interfaz de restauración japonesa.
+
+  Para ello, hemos analizado los contextos de nuestros dos perfiles clave, cuyas frustraciones con la competencia (Ramen Shifu) nos han servido de base para diseñar una solución real:
+
+  * John Smith (Perfil Rápido): Representa al usuario cuya prioridad absoluta es la gestión del tiempo. Para John, la tecnología no debe ser un adorno, sino una herramienta de precisión. Su mapa de empatía refleja una lucha constante contra la fricción: odia los procesos que le obligan a repetir tareas (como rellenar datos) o que le expulsan a entornos externos lentos. Su comportamiento está marcado por la eficiencia, y cualquier segundo de retraso en la carga o en el pago se traduce en abandono.
   
 
 ### PROPUESTA DE VALOR
