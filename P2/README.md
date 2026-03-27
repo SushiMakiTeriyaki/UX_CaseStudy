@@ -16,7 +16,7 @@
 
   - 🔵 Los usuarios plantean dudas relacionadas con la utilidad de la web en el local físico y la gestión de beneficios por fidelidad, evidenciando una desconexión entre el canal digital y la experiencia en mesa.
 
-  - 🟢 Se identifican oportunidades clave como la implementación de un "Modo Rápido" de pedido, un sistema de "Filtro Persistente" de alérgenos y el pago nativo integrado.
+  - 🟢 Se identifican oportunidades clave como la implementación de un "Modo Automático" sin necesidad de inicar sesión de la forma tradicional en la cuenta del usuario, un sistema de "Filtro Persistente" de alérgenos y el pago nativo integrado.
   
 <img width="1704" height="1055" alt="imagen" src="https://github.com/user-attachments/assets/da2064c2-42ab-413d-a5aa-94b115f69e68" />
 
