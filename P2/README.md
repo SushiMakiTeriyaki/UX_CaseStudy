@@ -65,6 +65,11 @@ Enlace al archivo: [Empathy Map Sofia](1.%20Reframing/EmpathyCustomerMapSofia.pd
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+#### ScopeCanvas
+  Diseñaremos una plataforma bimodal (Móvil/Tablet) capaz de adaptarse al contexto de uso del cliente en tiempo real. Implementaremos un 'Modo Rápido' que permita a usuarios como John realizar pedidos en pocos clics mediante el uso de perfiles pre-configurados, historial de pedidos y pago nativo integrado.
+
+  Paralelamente, ofreceremos un 'Modo Safe' para usuarios como Sofía, donde un sistema de filtrado persistente de alérgenos y una estética premium garantizarán una navegación 100% segura y visualmente atractiva. Con esta solución, Sushi Maki no solo vende gastronomía japonesa, sino que vende tiempo y seguridad, eliminando el abandono de la web y fidelizando al usuario a través de una experiencia digital propia, controlada y altamente personalizada.
+
 
 ### TASK ANALYSIS
 
