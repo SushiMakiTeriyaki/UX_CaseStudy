@@ -48,6 +48,20 @@ Enlace al archivo: [Empathy Map Sofia](1.%20Reframing/EmpathyCustomerMapSofia.pd
   - Hiper-eficiencia: Reducción total de pasos para usuarios con alta carga laboral.
   - Seguridad Inteligente: Personalización del catálogo basada en requisitos dietéticos para eliminar la incertidumbre.
 
+
+#### Point of View (POV)
+  Tras empatizar con nuestros usuarios, hemos definido los siguientes puntos de vista que guiarán el diseño de Sushi Maki:
+  
+POV 1: El reto de la eficiencia (John)
+  - Usuario: John, un analista con alta competencia digital y tiempo limitado.
+  - Necesidad: Un sistema de pedido nativo, ultra rápido y con memoria de datos.
+  - Insight: Porque para un perfil "Agile", la redirección a terceros y la repetición de tareas manuales no son solo molestias, sino barreras que le hacen sentir que pierde el control de su jornada laboral.
+
+POV 2: El reto de la confianza (Sofía)
+  - Usuario: Sofía, una influencer con celiaquía que busca experiencias premium y seguras.
+  - Necesidad: Una interfaz visualmente impecable que filtre automáticamente la carta según sus restricciones médicas.
+  - Insight: Porque su seguridad alimentaria depende de información que la competencia oculta tras menús estáticos, y ella valora la tranquilidad de ser cuidada de forma personalizada sin tener que "interrogar" al personal.
+
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
