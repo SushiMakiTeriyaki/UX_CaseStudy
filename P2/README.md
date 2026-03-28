@@ -70,6 +70,9 @@ Enlace al archivo: [Empathy Map Sofia](1.%20Reframing/EmpathyCustomerMapSofia.pd
 
   Paralelamente, ofreceremos un 'Modo Safe' para usuarios como Sofía, donde un sistema de filtrado persistente de alérgenos y una estética premium garantizarán una navegación 100% segura y visualmente atractiva. Con esta solución, Sushi Maki no solo vende gastronomía japonesa, sino que vende tiempo y seguridad, eliminando el abandono de la web y fidelizando al usuario a través de una experiencia digital propia, controlada y altamente personalizada.
 
+<img width="1918" height="1068" alt="imagen" src="https://github.com/user-attachments/assets/843f0537-6d74-4095-9374-cbf90126dc96" />
+
+Enlace al archivo: [ScopeCanvas](2.%20ScopeCanvas/ScopeCanvas.pdf)
 
 ### TASK ANALYSIS
 
