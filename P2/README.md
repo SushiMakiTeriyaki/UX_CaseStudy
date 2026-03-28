@@ -40,10 +40,13 @@ Enlace al archivo: [Empathy Map John](1.%20Reframing/EmpathyCustomerMapJohn.pdf)
 
   * Sofía García (Perfil "Alto Nivel"): Representa la necesidad de seguridad y confianza. Como influencer celíaca, su relación con la comida es visual pero también técnica. En su mapa observamos que la falta de transparencia en los ingredientes de la competencia le genera una vulnerabilidad. No busca rapidez, sino una experiencia estética que la haga sentirse cuidada y segura. Para ella, el "lujo" digital es no tener que preguntar por los alérgenos porque la App ya sabe quién es ella y qué puede comer.
 
-
+<img width="1931" height="1287" alt="imagen" src="https://github.com/user-attachments/assets/c8538a27-66a1-444d-84f1-f51789c9ce28" />
 
 Enlace al archivo: [Empathy Map Sofia](1.%20Reframing/EmpathyCustomerMapSofia.pdf)
-  
+
+  Estos mapas nos permiten identificar dos pilares fundamentales para la propuesta de valor de Sushi Maki:
+  - Hiper-eficiencia: Reducción total de pasos para usuarios con alta carga laboral.
+  - Seguridad Inteligente: Personalización del catálogo basada en requisitos dietéticos para eliminar la incertidumbre.
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
