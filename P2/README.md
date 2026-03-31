@@ -77,7 +77,8 @@ Enlace al archivo: [ScopeCanvas](2.%20ScopeCanvas/ScopeCanvas.pdf)
 ### TASK ANALYSIS
 
 * User Task Matrix
-
+Hemos usando los diferentes colores para otrorgar importancia (🔴 Alta, 🟡 Media, 🟢 Baja), valorando así las principales funciones que tiene la web. Dandole importancia tanto para nuestros perfiles ficticios como una valoración general
+<img width="1026" height="373" alt="image" src="https://github.com/user-attachments/assets/2457df7d-c352-4c94-9884-9405f2e69f52" />
 
 
 * User/Task flow
