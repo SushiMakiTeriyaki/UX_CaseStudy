@@ -76,14 +76,29 @@ Enlace al archivo: [ScopeCanvas](2.%20ScopeCanvas/ScopeCanvas.pdf)
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+
+
+
 * User/Task flow
+
+Simulamos el camino que recorrería John un perfil ágil a la hora de realizar un pedido.
+
+ <img width="1592" height="164" alt="image" src="https://github.com/user-attachments/assets/34e1d1a8-540e-49cd-ba86-a6c47590a2a4" />
+
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* Sitemap
+
+<img width="1698" height="718" alt="image" src="https://github.com/user-attachments/assets/9f85c9c9-7d08-45e4-ad62-ce9b12700441" />
+
+* Labelling
+  
+<img width="606" height="692" alt="image" src="https://github.com/user-attachments/assets/61d5d7b8-f955-494b-8c99-5d9c742fec0e" />
+
+Se ha incluido la descripción de algunos posibles iconos que según quede a la hora de montar la web se incluiran o no.
 
 
 ### Prototipo Lo-FI Wireframe 
