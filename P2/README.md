@@ -93,7 +93,8 @@ Simulamos el camino que recorrería John un perfil ágil a la hora de realizar u
 
 * Sitemap
 
-<img width="1698" height="718" alt="image" src="https://github.com/user-attachments/assets/9f85c9c9-7d08-45e4-ad62-ce9b12700441" />
+<img width="1714" height="746" alt="image" src="https://github.com/user-attachments/assets/1f3fdcd0-0b6a-4155-a652-e17ef0588655" />
+
 
 * Labelling
   
