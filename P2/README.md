@@ -92,9 +92,8 @@ Simulamos el camino que recorrería John un perfil ágil a la hora de realizar u
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-
-<img width="1714" height="746" alt="image" src="https://github.com/user-attachments/assets/1f3fdcd0-0b6a-4155-a652-e17ef0588655" />
-
+  
+<img width="1714" height="746" alt="image" src="https://github.com/user-attachments/assets/92ee4628-dd92-45d5-9098-1a010f09fe4f" />
 
 * Labelling
   
