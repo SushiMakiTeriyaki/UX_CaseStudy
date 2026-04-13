@@ -109,7 +109,7 @@ https://www.figma.com/design/K5tqaWBPMUqG4boyHfI1au/BocetosAPPMOVIL?node-id=0-1&
 
 ### Diseño tablet
 
-https://www.figma.com/design/NYHnoISLFfCcMScfGPko04/BocetosTablet?node-id=0-1&p=f&t=TyNdnizsv5QvGY2i-0 
+https://www.figma.com/proto/NYHnoISLFfCcMScfGPko04/BocetosTablet?node-id=1-751&t=YHiMrPoUxZdtks2F-1
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
