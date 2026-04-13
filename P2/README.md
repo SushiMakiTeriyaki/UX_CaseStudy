@@ -101,12 +101,15 @@ Simulamos el camino que recorrería John un perfil ágil a la hora de realizar u
 
 Se ha incluido la descripción de algunos posibles iconos que según quede a la hora de montar la web se incluiran o no.
 
+### Prototipo Lo-FI Wireframe 
+
 ### Diseño movil
 
 https://www.figma.com/design/K5tqaWBPMUqG4boyHfI1au/BocetosAPPMOVIL?node-id=0-1&t=pP45lwbFm3Dluotx-1
 
-### Prototipo Lo-FI Wireframe 
+### Diseño tablet
 
+https://www.figma.com/design/NYHnoISLFfCcMScfGPko04/BocetosTablet?node-id=0-1&p=f&t=TyNdnizsv5QvGY2i-0 
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
