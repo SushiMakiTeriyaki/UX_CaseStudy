@@ -20,8 +20,22 @@ Aquí se definen los pilares visuales y de comunicación del proyecto:
 
 
 ## Landing Page
-Método UX
-Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+La landing page de Sushi Maki es la carta de presentación digital del restaurante, diseñada para transmitir la identidad de marca y captar la atención del usuario desde el primer momento.
+
+Estructura de la página:
+* Parte superior: imagen principal del restaurante acompañada del UX Writting de marca "Alta cocina japonesa, a tu ritmo", con llamada a la acción para poder realizar las diferentes acciones en la página.
+* Una sección donde se puede apreciar el mapa indicando donde esta el local si se pulsase se abriría directamente google maps con el camino a seguir para poder llegar.
+* Para dar enfasis en porque elegirnos tenemos una sección dedicada a los aspectos en los que destacamos. Con tres motivos clave que destacan el servicio exprés, la calidad de los ingredientes y la experiencia sin interrupciones.
+* Una sección dedicada a como contactarnos donde se puede ver el teléfono con su horario y el correo.
+* Una sección de preguntas frecuentes que resuelve las dudas más comunes sobre reservas, alérgenos, tiempo de servicio, pedidos a domicilio y eventos...
+
+Decisiones de diseño
+La página sigue la paleta de colores y tipografía definidas en el moodboard (Montserrat y Manrope), manteniendo una estética minimalista y elegante coherente con la identidad visual de Sushi Maki. Se ha priorizado la experiencia del usuario, especialmente de perfiles con poco tiempo disponible y usuarios con necesidades alimentarias específicas.
+
+#### Landing Page:
+
+<img width="273" height="929" alt="image" src="https://github.com/user-attachments/assets/640ce709-620c-4b40-ba28-103fa7974f65" />
+
 
 ## Guidelines
 Método UX
