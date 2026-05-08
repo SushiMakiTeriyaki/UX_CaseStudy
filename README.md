@@ -201,7 +201,32 @@ Término | Significado
 ----
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+
+Para garantizar una experiencia de usuario coherente y escalable, se ha desarrollado un sistema de diseño basado en componentes atómicos y patrones funcionales que responden a nuestra propuesta bimodal.  
+
+#### 1. Componentes Atómicos: Estilo Visual
+
+Se han definido las bases visuales de la aplicación para potenciar la identidad de la marca y la usabilidad en dispositivos táctiles:  
+* Paleta de Colores Semántica:
+* * Rojo Sushi (#E63946): Utilizado como color de acción principal en botones críticos como "Añadir" y "Pagar".
+* * Verde Wasabi (#87D272): Reservado para la seguridad alimentaria, indicando platos "Sin alérgenos" y confirmaciones de filtros activos.
+  * Crema (#E7EBE6): Empleado en fondos y tipografía para asegurar una estética limpia y de alta gama.
+
+* Tipografía: Se utiliza Montserrat para la identidad de marca (logotipo) y para los textos en botones, garantizando legibilidad y peso visual.
+
+
+#### 2. Patrones de Interfaz (IU)
+Basándonos en los perfiles de usuario detectados, se han implementado los siguientes patrones:  
+* Selector Bimodal: Componente ubicado en la cabecera que permite al usuario alternar globalmente entre el Modo Fast (velocidad y simplicidad) y el Modo Safe (detalle y seguridad).
+* Menú de Navegación Fijo (Header): Actúa como centro neurálgico persistente. Incluye el logotipo como retorno a inicio, el selector bimodal y acciones globales como el carrito con indicador de ítems y el perfil de usuario.
+* Bimodal Product Cards: Tarjetas dinámicas que adaptan su carga informativa. El Modo Safe destaca alérgenos en verde e información técnica, mientras que el Modo Fast prioriza la imagen, el precio y la conversión rápida.
+* Search Bar & Smart Filters: Sistema de búsqueda predictiva que, en el Modo Safe, funciona como un filtro sanitario resaltando productos aptos y ocultando riesgos. En el Modo Fast, prioriza el historial del usuario para acelerar la compra.
+* Jerarquía de Acciones (Botones):
+* * Botón Principal: Diseño sólido en Rojo Sushi para acciones de avance. Incluye variantes para estados Default, Hover y Pressed.
+  * Botón Secundario: Diseño de fondo transparente con borde rojo para acciones de retroceso o cancelación, minimizando errores accidentales.
+* Filter Chips / Toggles de Seguridad: Selectores binarios para necesidades dietéticas que cambian a verde al activarse, señalizando visualmente la aplicación de un filtro de seguridad.
+* Formulario de Pago: Cuadrícula simplificada para facilitar el uso táctil. Ofrece autocompletado inteligente en el Modo Fast y etiquetas claras con opciones de revisión total en el Modo Safe. 
 
 
 ### 3.d Mockup
