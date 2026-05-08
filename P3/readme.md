@@ -32,6 +32,22 @@ Estructura de la página:
 Decisiones de diseño
 La página sigue la paleta de colores y tipografía definidas en el moodboard (Montserrat y Manrope), manteniendo una estética minimalista y elegante coherente con la identidad visual de Sushi Maki. Se ha priorizado la experiencia del usuario, especialmente de perfiles con poco tiempo disponible y usuarios con necesidades alimentarias específicas.
 
+Como se menciona en el guión de prácticas había que usar las herramientas en figma que integran IA. Para ello en primer lugar probé una herramienta con la cual no logre nada no obstante busque otra, esta fue Wireframe Designer. Pero los resultados que esperaba no eran ni mucho menos los esperados probé diferentes prompts ya que con el primero no me gusto el resultado, estos son los prompts que usé:
+
+#### Prompt 1:
+
+"A modern, elegant, and dark-mode landing page for a premium sushi restaurant app called Sushi Maki. Top section (Hero): A large catchy headline, a subtitle, and a primary CTA button. Middle section: A large placeholder to display a smartphone app mockup. Bottom section: A 3-column features area. Visual style: Sleek, high-end, using dark charcoal background (#1A1A1A), terracotta accents for buttons (#E65100), and sage green details (#75A47F). Typography style: Clean sans-serif and elegant serif."
+
+#### Prompt 2:
+
+Genera una landing page minimalista en modo oscuro para el restaurante 'Sushi Maki' en Granada. Estilo moderno y limpio. Estructura:
+
+1. Cabecera (Hero): Un título grande, un subtítulo descriptivo y un botón grande de color naranja.
+2. Imagen Central: Un espacio grande vacío en el centro para colocar un teléfono móvil.
+3. Características (3 columnas): Una sección debajo con 3 columnas iguales con iconos simples y texto corto. le he puesto eso
+
+Pero en ambas ocasiones el resultado fue el mismo y no nos gusto nada por lo que se optó por hacerlo manualmente con los requisitos que se piden.
+
 #### Landing Page:
 
 <img width="273" height="929" alt="image" src="https://github.com/user-attachments/assets/640ce709-620c-4b40-ba28-103fa7974f65" />
