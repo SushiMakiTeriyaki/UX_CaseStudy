@@ -212,6 +212,7 @@ Se han definido las bases visuales de la aplicación para potenciar la identidad
   * Rojo Sushi (#E63946): Utilizado como color de acción principal en botones críticos como "Añadir" y "Pagar".
   * Verde Wasabi (#87D272): Reservado para la seguridad alimentaria, indicando platos "Sin alérgenos" y confirmaciones de filtros activos.
   * Crema (#E7EBE6): Empleado en fondos y tipografía para asegurar una estética limpia y de alta gama.
+También se han usado otros colores como para establecer el color de los botones (Color Salmon #FDA29F) o para el fondo de la cabera (Color Gris claro #E7EBE6).
 
 * Tipografía: Se utiliza Montserrat para la identidad de marca (logotipo) y para los textos en botones, garantizando legibilidad y peso visual.
 
@@ -228,7 +229,7 @@ Basándonos en los perfiles de usuario detectados, se han implementado los sigui
 * Filter Chips / Toggles de Seguridad: Selectores binarios para necesidades dietéticas que cambian a verde al activarse, señalizando visualmente la aplicación de un filtro de seguridad.
 * Formulario de Pago: Cuadrícula simplificada para facilitar el uso táctil. Ofrece autocompletado inteligente en el Modo Fast y etiquetas claras con opciones de revisión total en el Modo Safe.
 
-Enlace al archivo: [Guidelines](P3/Guidelines/Guidelines.pfd)
+Enlace al archivo: [Guidelines](P3/Guidelines/Guidelines.pdf)
 
 
 ### 3.d Mockup
