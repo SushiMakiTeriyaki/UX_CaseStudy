@@ -47,7 +47,22 @@ Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permi
 
 ## Briefing
 
+Proceso de diseño
+
+El proceso de esta práctica ha partido directamente de los resultados obtenidos en la fase de investigación anterior, donde definimos dos perfiles de usuario opuestos John (perfil ágil) y Sofía (perfil pausado y seguro) y mapeamos sus experiencias para identificar los puntos críticos reales. Esto nos ha permitido tomar decisiones de diseño fundamentadas desde el primer momento, evitando soluciones genéricas.
+La práctica se ha estructurado en cinco fases encadenadas: moodboard, landing page, design system, layout hi-fi y este briefing. Cada fase ha alimentado a la siguiente, garantizando coherencia visual y funcional en todo el proceso.
+
+Herramientas utilizadas
+
+Figma ha sido la herramienta principal que se ha utilizado (como se ha indicado en las clases). Se ha usado para el diseño del moodboard, el landing, el design system y el layout. Usando en todo momento componentes atómicos para facilitar futuros cambios de diseño.
+
+Puntos fuertes del diseño
+
+* Identidad visual clara y coherente: la paleta de colores cálidos, la tipografía elegante y el logotipo minimalista transmiten de forma efectiva los valores de Sushi Maki en todos los puntos de contacto.
+* Diseño bimodal: la arquitectura de la app contempla desde el inicio dos modos de uso, Modo Rápido para John y Modo Safe para Sofía. Lo que garantiza que ningún perfil de usuario quede desatendido.
+* Sistema de alérgenos integrado: uno de los diferenciadores más relevantes del diseño, directamente extraído de las necesidades reales detectadas en la investigación.
+* Design system escalable: el uso de tokens de color, escala tipográfica modular y componentes atómicos permite que el sistema pueda crecer sin perder consistencia.
+
 ## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Esta práctica ha demostrado que un proceso de diseño bien fundamentado en investigación previa reduce significativamente el número de decisiones arbitrarias. El uso combinado de Figma y herramientas de IA ha resultado eficaz para acelerar las fases más creativas: redacción, ideación visual y prototipado sin sacrificar la coherencia del resultado final. El principal reto ha sido mantener el equilibrio entre la estética premium que exige el perfil de Sofía y la simplicidad funcional que necesita el perfil de John, algo que el diseño bimodal ha resuelto de forma satisfactoria.
