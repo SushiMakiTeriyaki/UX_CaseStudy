@@ -226,7 +226,9 @@ Basándonos en los perfiles de usuario detectados, se han implementado los sigui
   * Botón Principal: Diseño sólido en Rojo Sushi para acciones de avance. Incluye variantes para estados Default, Hover y Pressed.
   * Botón Secundario: Diseño de fondo transparente con borde rojo para acciones de retroceso o cancelación, minimizando errores accidentales.
 * Filter Chips / Toggles de Seguridad: Selectores binarios para necesidades dietéticas que cambian a verde al activarse, señalizando visualmente la aplicación de un filtro de seguridad.
-* Formulario de Pago: Cuadrícula simplificada para facilitar el uso táctil. Ofrece autocompletado inteligente en el Modo Fast y etiquetas claras con opciones de revisión total en el Modo Safe. 
+* Formulario de Pago: Cuadrícula simplificada para facilitar el uso táctil. Ofrece autocompletado inteligente en el Modo Fast y etiquetas claras con opciones de revisión total en el Modo Safe.
+
+Enlace al archivo: [Guidelines](P3/Guidelines/Guidelines.pfd)
 
 
 ### 3.d Mockup
