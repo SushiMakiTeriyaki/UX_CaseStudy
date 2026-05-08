@@ -259,6 +259,10 @@ Este mockup no es solo una representación visual, sino una herramienta de valid
 
 Finalmente se adjunta un video de prueba de uso:
 
+https://github.com/user-attachments/assets/b87e3735-b198-4b5a-8180-14ed859d98aa
+
+
+
 
 <br>
 
