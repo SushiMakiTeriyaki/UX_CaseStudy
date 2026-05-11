@@ -242,12 +242,12 @@ El mockup constituye el prototipo de alta fidelidad de Sushi Maki, donde se han 
 
 #### 1. Simulación de Tareas y Flujos
 El prototipo permite validar la eficacia de la propuesta bimodal mediante la ejecución de tareas críticas:
-* Conmutación de Experiencia: Gracias al Selector Bimodal , el usuario puede alternar entre el Modo Fast y el Modo Safe. Esta transición utiliza Smart Animate para reflejar visualmente cómo la interfaz se simplifica o se detalla según el perfil.
-* Selección de Producto: Se simula la interacción con las Bimodal Product Cards , permitiendo al usuario visualizar la información técnica en el modo de seguridad o proceder a una compra rápida en el modo de agilidad.
-* Proceso de Pago (Checkout): El flujo culmina en el Formulario de Pago , donde se puede experimentar el patrón de autocompletado para el perfil Fast o la revisión asistida para el perfil Safe.
+* Conmutación de Experiencia: Gracias al selector bimodal, el usuario puede alternar entre el Modo Fast y el Modo Safe. Esta transición utiliza Smart Animate para reflejar visualmente cómo la interfaz se simplifica o se detalla según el perfil.
+* Selección de Producto: Se simula la interacción con las cartas de productos bimodales, permitiendo al usuario visualizar la información técnica en el modo de seguridad o proceder a una compra rápida en el modo de agilidad.
+* Proceso de Pago (Checkout): El flujo culmina en el formulario de pago, donde se puede probar el patrón de autocompletado para el perfil Fast o la revisión asistida para el perfil Safe.
 
-#### 2. Interactividad y Estados (Feedback Visual)
-Para lograr un realismo de nivel profesional (similar a un prototipo HTML), se han configurado los estados de los componentes atómicos:
+#### 2. Interactividad y Estados
+Para lograr un realismo de nivel profesional, se han configurado los estados de los componentes atómicos:
 * Botones Dinámicos: Tanto el Botón Principal como el Secundario responden a las acciones del usuario mediante estados de Hover y Pressed.
 * Validación de Filtros: Los Filter Chips cambian de estado y color (hacia el Verde Wasabi) al ser activados , proporcionando una confirmación visual inmediata de que se está aplicando un filtro de seguridad alimentaria.
 
