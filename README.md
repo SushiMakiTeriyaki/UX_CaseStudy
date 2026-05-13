@@ -261,7 +261,7 @@ Finalmente se adjunta un video de prueba de uso:
 
 https://github.com/user-attachments/assets/b87e3735-b198-4b5a-8180-14ed859d98aa
 
-
+Enlace a los wireframes formato tablet finalizado usable: [pinche aqui](https://www.figma.com/design/NYHnoISLFfCcMScfGPko04/BocetosTablet?node-id=47-211&t=53uQteTkBxEiQLGE-1 )
 
 
 <br>
