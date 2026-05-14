@@ -211,6 +211,37 @@ Aquí se definen los pilares visuales y de comunicación del proyecto:
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
+La landing page de Sushi Maki es la carta de presentación digital del restaurante, diseñada para transmitir la identidad de marca y captar la atención del usuario desde el primer momento.
+
+Estructura de la página:
+* Parte superior: imagen principal del restaurante acompañada del UX Writting de marca "Alta cocina japonesa, a tu ritmo", con llamada a la acción para poder realizar las diferentes acciones en la página.
+* Una sección donde se puede apreciar el mapa indicando donde esta el local si se pulsase se abriría directamente google maps con el camino a seguir para poder llegar.
+* Para dar enfasis en porque elegirnos tenemos una sección dedicada a los aspectos en los que destacamos. Con tres motivos clave que destacan el servicio exprés, la calidad de los ingredientes y la experiencia sin interrupciones.
+* Una sección dedicada a como contactarnos donde se puede ver el teléfono con su horario y el correo.
+* Una sección de preguntas frecuentes que resuelve las dudas más comunes sobre reservas, alérgenos, tiempo de servicio, pedidos a domicilio y eventos...
+
+Decisiones de diseño
+La página sigue la paleta de colores y tipografía definidas en el moodboard (Montserrat y Manrope), manteniendo una estética minimalista y elegante coherente con la identidad visual de Sushi Maki. Se ha priorizado la experiencia del usuario, especialmente de perfiles con poco tiempo disponible y usuarios con necesidades alimentarias específicas.
+
+Como se menciona en el guión de prácticas había que usar las herramientas en figma que integran IA. Para ello en primer lugar probé una herramienta con la cual no logre nada no obstante busque otra, esta fue Wireframe Designer. Pero los resultados que esperaba no eran ni mucho menos los esperados probé diferentes prompts ya que con el primero no me gusto el resultado, estos son los prompts que usé:
+
+#### Prompt 1:
+
+"A modern, elegant, and dark-mode landing page for a premium sushi restaurant app called Sushi Maki. Top section (Hero): A large catchy headline, a subtitle, and a primary CTA button. Middle section: A large placeholder to display a smartphone app mockup. Bottom section: A 3-column features area. Visual style: Sleek, high-end, using dark charcoal background (#1A1A1A), terracotta accents for buttons (#E65100), and sage green details (#75A47F). Typography style: Clean sans-serif and elegant serif."
+
+#### Prompt 2:
+
+Genera una landing page minimalista en modo oscuro para el restaurante 'Sushi Maki' en Granada. Estilo moderno y limpio. Estructura:
+
+1. Cabecera (Hero): Un título grande, un subtítulo descriptivo y un botón grande de color naranja.
+2. Imagen Central: Un espacio grande vacío en el centro para colocar un teléfono móvil.
+3. Características (3 columnas): Una sección debajo con 3 columnas iguales con iconos simples y texto corto. le he puesto eso
+
+Pero en ambas ocasiones el resultado fue el mismo y no nos gusto nada por lo que se optó por hacerlo manualmente con los requisitos que se piden.
+
+#### Landing Page:
+
+<img width="273" height="929" alt="image" src="https://github.com/user-attachments/assets/640ce709-620c-4b40-ba28-103fa7974f65" />
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
