@@ -188,6 +188,22 @@ Término | Significado
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
+Este moodboard recoge la identidad visual del proyecto Sushi Maki, un restaurante japonés orientado a ofrecer alta cocina accesible para todo tipo de perfiles, con especial énfasis en la experiencia del usuario.
+Aquí se definen los pilares visuales y de comunicación del proyecto:
+
+* Paleta de colores que transmite modernidad, calidez y elegancia
+* Tipografías (Montserrat y Manrope) seleccionadas por su legibilidad y estilo contemporáneo
+* Logo e identidad de marca con un diseño limpio y minimalista, representa lo más basico del restaurante shusi y los palillos 
+* Inspiración de diseño basada en restaurantes similare que proporcionan servicios de alto nivel
+* Perfiles de usuario muestran sus necesidades y motivaciones reales
+* UX Writing: "Alta cocina japonesa, a tu ritmo", una frase que identifica la esencia del restarante la calidad de la comida y su preocupación por el cliente, que todo el mundo pueda independientemente del tiempo quue dispongan
+
+#### Moodboard:
+
+<img width="1315" height="861" alt="image" src="https://github.com/user-attachments/assets/842b358c-7a99-44db-8df6-3e44a4329029" />
+
+
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
