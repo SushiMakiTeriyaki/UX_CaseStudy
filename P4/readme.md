@@ -6,7 +6,7 @@ En esta fase final, hemos transformado nuestro diseño en un producto interactiv
 
 Podéis acceder a la versión desplegada y operativa de la aplicación de Sushi Maki a través del siguiente enlace:
 
-https://carrot-nova-33804017.figma.site
+https://evil-black-89130871.figma.site 
 
 Para el desarrollo de este entregable, hemos aplicado el concepto de Vibe Coding, interactuando con agentes de IA para refinar la interfaz y la lógica de navegación:
 
