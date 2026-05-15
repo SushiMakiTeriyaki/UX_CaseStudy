@@ -54,12 +54,74 @@ Pero en ambas ocasiones el resultado fue el mismo y no nos gusto nada por lo que
 
 
 ## Guidelines
-Método UX
-Estudio de Guidelines y explicación de los Patrones IU a usar Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+![Método UX](img/guidelines.png) 
+----
+
+>>> Estudio de Guidelines y explicación de los Patrones IU a usar 
+>>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+
+Para garantizar una experiencia de usuario coherente y escalable, se ha desarrollado un sistema de diseño basado en componentes atómicos y patrones funcionales que responden a nuestra propuesta bimodal.  
+
+#### 1. Componentes Atómicos: Estilo Visual
+
+Se han definido las bases visuales de la aplicación para potenciar la identidad de la marca y la usabilidad en dispositivos táctiles:  
+* Paleta de Colores Semántica:
+  * Rojo Sushi (#E63946): Utilizado como color de acción principal en botones críticos como "Añadir" y "Pagar".
+  * Verde Wasabi (#87D272): Reservado para la seguridad alimentaria, indicando platos "Sin alérgenos" y confirmaciones de filtros activos.
+  * Crema (#E7EBE6): Empleado en fondos y tipografía para asegurar una estética limpia y de alta gama.
+También se han usado otros colores como para establecer el color de los botones (Color Salmon #FDA29F) o para el fondo de la cabera (Color Gris claro #E7EBE6).
+
+* Tipografía: Se utiliza Montserrat para la identidad de marca (logotipo) y para los textos en botones, garantizando legibilidad y peso visual.
+
+
+#### 2. Patrones de Interfaz (IU)
+Basándonos en los perfiles de usuario detectados, se han implementado los siguientes patrones:  
+* Selector Bimodal: Componente ubicado en la cabecera que permite al usuario alternar globalmente entre el Modo Fast (velocidad y simplicidad) y el Modo Safe (detalle y seguridad).
+* Menú de Navegación Fijo (Header): Actúa como centro neurálgico persistente. Incluye el logotipo como retorno a inicio, el selector bimodal y acciones globales como el carrito con indicador de ítems y el perfil de usuario.
+* Bimodal Product Cards: Tarjetas dinámicas que adaptan su carga informativa. El Modo Safe destaca alérgenos en verde e información técnica, mientras que el Modo Fast prioriza la imagen, el precio y la conversión rápida.
+* Search Bar & Smart Filters: Sistema de búsqueda predictiva que, en el Modo Safe, funciona como un filtro sanitario resaltando productos aptos y ocultando riesgos. En el Modo Fast, prioriza el historial del usuario para acelerar la compra.
+* Jerarquía de Acciones (Botones):
+  * Botón Principal: Diseño sólido en Rojo Sushi para acciones de avance. Incluye variantes para estados Default, Hover y Pressed.
+  * Botón Secundario: Diseño de fondo transparente con borde rojo para acciones de retroceso o cancelación, minimizando errores accidentales.
+* Filter Chips / Toggles de Seguridad: Selectores binarios para necesidades dietéticas que cambian a verde al activarse, señalizando visualmente la aplicación de un filtro de seguridad.
+* Formulario de Pago: Cuadrícula simplificada para facilitar el uso táctil. Ofrece autocompletado inteligente en el Modo Fast y etiquetas claras con opciones de revisión total en el Modo Safe.
+
+Enlace al archivo: [Guidelines](P3/Guidelines/Guidelines.pdf)
+
 
 ## Mockup
-Método UX
-Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+![Método UX](img/mockup.png) 
+----
+
+>>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+El mockup constituye el prototipo de alta fidelidad de Sushi Maki, donde se han integrado todos los componentes y patrones definidos en las Guidelines  para simular flujos de usuario reales en un entorno de tablet.  
+
+#### 1. Simulación de Tareas y Flujos
+El prototipo permite validar la eficacia de la propuesta bimodal mediante la ejecución de tareas críticas:
+* Conmutación de Experiencia: Gracias al selector bimodal, el usuario puede alternar entre el Modo Fast y el Modo Safe. Esta transición utiliza Smart Animate para reflejar visualmente cómo la interfaz se simplifica o se detalla según el perfil.
+* Selección de Producto: Se simula la interacción con las cartas de productos bimodales, permitiendo al usuario visualizar la información técnica en el modo de seguridad o proceder a una compra rápida en el modo de agilidad.
+* Proceso de Pago (Checkout): El flujo culmina en el formulario de pago, donde se puede probar el patrón de autocompletado para el perfil Fast o la revisión asistida para el perfil Safe.
+
+#### 2. Interactividad y Estados
+Para lograr un realismo de nivel profesional, se han configurado los estados de los componentes atómicos:
+* Botones Dinámicos: Tanto el Botón Principal como el Secundario responden a las acciones del usuario mediante estados de Hover y Pressed.
+* Validación de Filtros: Los Filter Chips cambian de estado y color (hacia el Verde Wasabi) al ser activados , proporcionando una confirmación visual inmediata de que se está aplicando un filtro de seguridad alimentaria.
+
+#### 3. Valor Estratégico
+Este mockup no es solo una representación visual, sino una herramienta de validación que permite:
+* Verificar la consistencia de la Paleta de Colores (Rojo Sushi, Verde Wasabi y Crema) en un flujo de navegación real.
+* Evaluar la legibilidad de la tipografía Montserrat en los elementos de acción y navegación.
+* Demostrar a los stakeholders cómo la arquitectura de información se adapta dinámicamente para reducir la carga cognitiva del usuario.
+
+Finalmente se adjunta un video de prueba de uso:
+
+https://github.com/user-attachments/assets/b87e3735-b198-4b5a-8180-14ed859d98aa
+
+Enlace a los wireframes formato tablet finalizado usable: [pinche aqui](https://www.figma.com/design/NYHnoISLFfCcMScfGPko04/BocetosTablet?node-id=47-211&t=53uQteTkBxEiQLGE-1 )
+
+
+<br>
 
 ## Briefing
 
