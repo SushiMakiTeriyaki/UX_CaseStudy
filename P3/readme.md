@@ -57,9 +57,6 @@ Pero en ambas ocasiones el resultado fue el mismo y no nos gusto nada por lo que
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
-
 Para garantizar una experiencia de usuario coherente y escalable, se ha desarrollado un sistema de diseño basado en componentes atómicos y patrones funcionales que responden a nuestra propuesta bimodal.  
 
 #### 1. Componentes Atómicos: Estilo Visual
@@ -92,8 +89,6 @@ Enlace al archivo: [Guidelines](P3/Guidelines/Guidelines.pdf)
 ## Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 El mockup constituye el prototipo de alta fidelidad de Sushi Maki, donde se han integrado todos los componentes y patrones definidos en las Guidelines  para simular flujos de usuario reales en un entorno de tablet.  
 
