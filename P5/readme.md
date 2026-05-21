@@ -11,6 +11,7 @@ Caso Asignado: 1º
 * Rol: Usuario final
 * Experiencia Previa en Estudios de Usabilidad: No
 * Experiencia Previa con Apps Similares (Delivery/Sushi): No
+  
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: Si
 * Condiciones de Iluminación: Luz natural
