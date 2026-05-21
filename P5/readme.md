@@ -95,9 +95,25 @@ En este caso el usuario se ha centrado en toda la pantalla principal un general,
 
 En este caso podemos apreciar que el principal foco es la parte superior del logo junto con el buscador de sushi por nombre y el boton de safe, para la parte de filtros se lleva algo menos de atención a pesar de estar justo debajo quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general por todos los productos sin ponerle demasiado foco, se focaliza principalmente en los primeros productos que es la zona donde aparecen dichos productos a la hora de buscarlos con el buscador.
 
+### 3.Evaluación caso A o B
 
+A cada participante se le va a preguntar una acción y a todos ellos se le va a preguntar que busque el contacto del restaurante, para la pregunta común se va ha realizar una valoración común.
 
+##### Participante 1: Acción Reservar mesa
 
+Este usuario no tardo en identificar el botón destinado a la reserva es una acción principal que se identifica con facilidad, al acceder rellenó los datos del formulario y le dio a continuar comprobo la información y le dio a reservar. Para ello el tiempo destinado fue minimo tardo más en rellenar los datos que en buscar el botón.
+
+##### Participante 2: Acción Pedir a domicilio
+
+Este usuario al igual que el otro no tardo nada en encontrar el botón de pedir. Introdujo una dirección nueva y llego al apartado de carta donde busco los productos que queria y trás añadir todos los productos que deseaba fue al carrito para confirmar el pedido y al continuar relleno los datos de la tarjeta  y trás pagar ya estaba la pantalla de seguimiento de pedido. No tardo tiempo en realizar la acción completa le resulto muy sencilla.
+
+##### Participante 3: Acción Pedir para recoger
+
+Este usuario al igual que los anteriores no tardo en identificar donde tenia que hacer click, el proceso de pedido es similar al anterior por lo que entre el resultado de este usuario y el anterior no vario en practicamente nada.
+
+###### Conclusión acción común
+
+La acción común, buscar el contacto del restaurante  no fue complicada para ningún usuario ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista 
 
 
 
