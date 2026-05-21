@@ -2,7 +2,7 @@
 
 ### 1. Plan de reclutamiento de participantes
 
-Participante: P1
+##### Participante: P1
 
 Caso Asignado: 1º 
 * Edad: 52 años
@@ -10,10 +10,42 @@ Caso Asignado: 1º
 * Nivel de Competencia Digital: Bajo/Medio
 * Rol: Usuario final
 * Experiencia Previa en Estudios de Usabilidad: No
-* Experiencia Previa con Apps Similares (Delivery/Sushi): No
+* Experiencia Previa con Apps Similares: No
   
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: Si
+* Condiciones de Iluminación: Luz natural
+* Dispositivo de la prueba: Portátil 13
+* Resolución de Pantalla: 1920x1080
+
+##### Participante: P2
+
+Caso Asignado: 1º 
+* Edad: 56 años
+* Género: Masculino
+* Nivel de Competencia Digital: Bajo
+* Rol: Usuario final
+* Experiencia Previa en Estudios de Usabilidad: No
+* Experiencia Previa con Apps Similares: No
+  
+Factores Técnicos (Para Eye Tracking)
+* Uso de Gafas/Lentillas: Si
+* Condiciones de Iluminación: Luz natural
+* Dispositivo de la prueba: Portátil 13
+* Resolución de Pantalla: 1920x1080
+
+##### Participante: P3
+
+Caso Asignado: 1º 
+* Edad: 17 años
+* Género: Masculino
+* Nivel de Competencia Digital: Medio
+* Rol: Usuario final
+* Experiencia Previa en Estudios de Usabilidad: No
+* Experiencia Previa con Apps Similares: Si
+  
+Factores Técnicos (Para Eye Tracking)
+* Uso de Gafas/Lentillas: No
 * Condiciones de Iluminación: Luz natural
 * Dispositivo de la prueba: Portátil 13
 * Resolución de Pantalla: 1920x1080
