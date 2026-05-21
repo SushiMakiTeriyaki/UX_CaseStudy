@@ -1,5 +1,35 @@
 ## Practica 5: Exportación + Documentación - entregables 
 
+### 1. Plan de reclutamiento de participantes
+
+Participante: P1
+
+Caso Asignado: 1º 
+* Edad: 52 años
+* Género: Femenino
+* Nivel de Competencia Digital: Bajo/Medio
+* Rol: Usuario final
+* Experiencia Previa en Estudios de Usabilidad: No
+* Experiencia Previa con Apps Similares (Delivery/Sushi): No
+Factores Técnicos (Para Eye Tracking)
+* Uso de Gafas/Lentillas: Si
+* Condiciones de Iluminación: Luz natural
+* Dispositivo de la prueba: Portátil 13
+* Resolución de Pantalla: 1920x1080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Exportación a HTML/React
 - Documentación con Storybook
