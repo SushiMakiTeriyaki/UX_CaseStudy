@@ -50,7 +50,7 @@ Factores Técnicos (Para Eye Tracking)
 * Dispositivo de la prueba: Portátil 13
 * Resolución de Pantalla: 1920x1080
 
-### 2.Diseño de la prueba mediante: Eye Tracking
+### 2. Diseño de la prueba mediante: Eye Tracking
 
 ##### Participante: P1
 
@@ -115,7 +115,9 @@ Este usuario al igual que los anteriores no tardo en identificar donde tenia que
 
 La acción común, buscar el contacto del restaurante  no fue complicada para ningún usuario ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista 
 
-### 5.Evaluación de Accesibidad
+### 4. Escala SUS: Cuestionario
+
+### 5. Evaluación de Accesibidad
 
 #### Categoría: Perceptible
 
