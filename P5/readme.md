@@ -115,9 +115,9 @@ Este usuario al igual que los anteriores no tardo en identificar donde tenia que
 
 La acción común, buscar el contacto del restaurante  no fue complicada para ningún usuario ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista 
 
-### 5. 
+### 5.Evaluación de Accesibidad
 
-1. Categoría: Perceptible
+#### Categoría: Perceptible
 
 * Error detectado: Presencia de 3 errores de contraste muy bajo (Very low contrast) localizados en los elementos interactivos principales de la zona superior e inferior de la pantalla. Esto ocurre porque la tipografía tiene un tono gris o dorado que se funde con el fondo oscuro de la interfaz del prototipo. Criterio WCAG incumplido: Criterio 1.4.3 - Contraste mínimo (Nivel AA).
 
@@ -127,7 +127,35 @@ Recomendación de mejora: Modificar el código de color de la fuente tipográfic
 
 Conclusión de la categoría: Aunque la estética visual es elegante y simula una atmósfera nocturna muy atractiva, se ha sacrificado la legibilidad técnica elemental, generando una barrera perceptiva para usuarios con diversidad funcional visual.
 
+#### Categoría: Operable
 
+* Error detectado: Presencia de 1 error crítico de accesibilidad por "Broken ARIA reference" (Referencia ARIA rota) detectado por WAVE en la estructura de la página. Criterio WCAG incumplido: Criterio 2.1.1 - Teclado (Nivel A) y Criterio 2.4.3 - Orden del foco.
+
+* Impacto de la experiencia: Al haber elementos con etiquetas o atributos ARIA mal enlazados en el código, un usuario que intente navegar por la aplicación utilizando exclusivamente el teclado (tecla TAB) o un pulsador adaptado se quedará "atrapado" o el foco saltará de forma caótica, impidiéndole clicar en los botones de "Reservar mesa" o "Ver menú".
+
+Recomendación de mejora: Revisar el código HTML/React de la interfaz y corregir los atributos aria-labelledby o aria-describedby, asegurándose de que apunten a un ID existente y válido en el documento.
+
+Conclusión de la categoría: El sitio web es interactivo visualmente, pero la presencia de enlaces rotos en los atributos de accesibilidad rompe la operabilidad para tecnologías asistenciales.
+
+#### Categoría: Comprensible
+
+* Error detectado: Presencia de 1 Alerta por "Orphaned form label" (Etiqueta de formulario huérfana) en los elementos de entrada o selección de la interfaz. Criterio WCAG incumplido: Criterio 3.3.2 - Etiquetas o instrucciones (Nivel A).
+
+* Impacto de la experiencia: Cuando una etiqueta de formulario no está correctamente vinculada a su campo de texto (input), los lectores de pantalla para usuarios sin visión no pueden leer en voz alta qué es lo que hay que rellenar en esa casilla. Esto genera una enorme confusión y errores al intentar introducir datos.
+
+Recomendación de mejora: Enlazar de forma explícita cada etiqueta <label> para solucionar dicho problema.
+
+Conclusión de la categoría: Los textos generales de la cafetería se entienden bien y el idioma está declarado, pero la falta de conexiones limpias en los formularios penaliza la comprensión interactiva.
+
+#### Categoría: Robusto
+
+* Error detectado: WAVE detecta una acumulación de 74 elementos ARIA inyectados en un espacio web muy reducido (la pantalla simulada de un teléfono móvil). Criterio WCAG incumplido: Criterio 4.1.2 - Nombre, función, valor (Nivel A).
+
+* Impacto de la experiencia: El abuso o la mala implementación de etiquetas ARIA artificiales (creadas en multiples ocasiones de forma automatica por la IA ) crea un software inestable. Provoca que el código no sea "limpio" y que los lectores de pantalla sufran problemas de compatibilidad o interpreten elementos vacíos que confunden al usuario.
+
+Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas nativas de HTML5 (como <button>, <nav> o <header>) en lugar de saturar el código con contenedores genéricos <div>.
+
+Conclusión de la categoría: La estructura técnica cumple con el estándar visual actual, pero requiere una limpieza de la semántica del código para asegurar que la aplicación sea robusta y compatible con futuros navegadores o dispositivos.
 
 
 - Exportación a HTML/React
