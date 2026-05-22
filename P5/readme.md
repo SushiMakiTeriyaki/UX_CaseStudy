@@ -117,6 +117,30 @@ La acción común, buscar el contacto del restaurante  no fue complicada para ni
 
 ### 4. Escala SUS: Cuestionario
 
+Trás realizar el test tenemos los sigientes resultados: 
+
+<img width="1533" height="912" alt="image" src="https://github.com/user-attachments/assets/96267094-6017-4614-930c-c7a57859977d" />
+
+<img width="1533" height="912" alt="image" src="https://github.com/user-attachments/assets/6ca2d539-bd39-453e-9457-53a3cc4159fc" />
+
+<img width="1533" height="912" alt="image" src="https://github.com/user-attachments/assets/b007be20-863d-4da8-8847-194e97a7e457" />
+
+#### Nuestra Aplicación (Sushi Maki)
+
+Puntuación media: 83.33 / 100
+
+Calificación: Excellent (Excelente)
+
+Análisis del comportamiento: Nuestro sistema ha demostrado una solidez excepcional. Al desglosar las puntuaciones normalizadas, destaca un rendimiento perfecto (contribución de 10.0) en la Pregunta 4 (No requerir el apoyo de un experto) y en la Pregunta 10 (No necesitar aprender muchas cosas antes de usar la web). Esto demuestra que la interfaz es intuitiva de manera inmediata, eliminando cualquier curva de aprendizaje o fricción para el usuario final.
+
+#### Aplicación de la competencia (Gravity Brew)
+
+Puntuación media: 79.17 / 100
+
+Calificación: Good (Bueno)
+
+Análisis del comportamiento: Aunque el Caso B obtiene una buena valoración general impulsada por su atractivo estético, el análisis  revela debilidades estructurales. Su rendimiento cae sensiblemente en la Pregunta 3 (Facilidad de uso, bajando a 6.67) y en la Pregunta 6 (Inconsistencia detectada en el sistema, bajando a 7.5). Estos datos confirman las sospechas de las pruebas : la distribución de sus botones y el flujo interactivo generan ligeras dudas y desorientación durante la navegación.
+
 ### 5. Evaluación de Accesibidad
 
 #### Categoría: Perceptible
