@@ -115,7 +115,17 @@ Este usuario al igual que los anteriores no tardo en identificar donde tenia que
 
 La acción común, buscar el contacto del restaurante  no fue complicada para ningún usuario ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista 
 
+### 5. 
 
+1. Categoría: Perceptible
+
+* Error detectado: Presencia de 3 errores de contraste muy bajo (Very low contrast) localizados en los elementos interactivos principales de la zona superior e inferior de la pantalla. Esto ocurre porque la tipografía tiene un tono gris o dorado que se funde con el fondo oscuro de la interfaz del prototipo. Criterio WCAG incumplido: Criterio 1.4.3 - Contraste mínimo (Nivel AA).
+
+* Impacto de la experiencia: Los usuarios con visión reducida, daltonismo o aquellos que utilicen la aplicación en exteriores con reflejos de luz solar no podrán distinguir ni leer correctamente el texto de los botones o de las secciones secundarias de la cafetería.
+
+Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro #FFFFFF o un crema de alta visibilidad) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
+
+Conclusión de la categoría: Aunque la estética visual es elegante y simula una atmósfera nocturna muy atractiva, se ha sacrificado la legibilidad técnica elemental, generando una barrera perceptiva para usuarios con diversidad funcional visual.
 
 
 
