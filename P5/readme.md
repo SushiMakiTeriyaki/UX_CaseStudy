@@ -153,7 +153,7 @@ Conclusión de la categoría: Los textos generales de la cafetería se entienden
 
 * Impacto de la experiencia: El abuso o la mala implementación de etiquetas ARIA artificiales (creadas en multiples ocasiones de forma automatica por la IA ) crea un software inestable. Provoca que el código no sea "limpio" y que los lectores de pantalla sufran problemas de compatibilidad o interpreten elementos vacíos que confunden al usuario.
 
-Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas nativas de HTML5 (como <button>, <nav> o <header>) en lugar de saturar el código con contenedores genéricos <div>.
+Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas nativas de HTML5 (como <button>, <nav> o <header>) en lugar de saturar el código con contenedores genéricos <div>
 
 Conclusión de la categoría: La estructura técnica cumple con el estándar visual actual, pero requiere una limpieza de la semántica del código para asegurar que la aplicación sea robusta y compatible con futuros navegadores o dispositivos.
 
