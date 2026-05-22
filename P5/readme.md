@@ -123,7 +123,7 @@ La acción común, buscar el contacto del restaurante  no fue complicada para ni
 
 * Impacto de la experiencia: Los usuarios con visión reducida, daltonismo o aquellos que utilicen la aplicación en exteriores con reflejos de luz solar no podrán distinguir ni leer correctamente el texto de los botones o de las secciones secundarias de la cafetería.
 
-Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro #FFFFFF o un crema de alta visibilidad) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
+Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro #FFFFFF o un crema que se vea bien) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
 
 Conclusión de la categoría: Aunque la estética visual es elegante y simula una atmósfera nocturna muy atractiva, se ha sacrificado la legibilidad técnica elemental, generando una barrera perceptiva para usuarios con diversidad funcional visual.
 
