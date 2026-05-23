@@ -88,9 +88,9 @@ Factores Técnicos (Para Eye Tracking)
 
 <img width="1920" height="4393" alt="Usuario1" src="https://github.com/user-attachments/assets/e01229a1-e174-48a4-80ba-93b18e21cff4" />
 
-Una vez optenido el mapa de calor con el eye tranking para nuestro primer usuario podemos apreciar varios puntos clave que demuestran una buena usabilidad:
+Una vez obtenido el mapa de calor con el eye tracking para nuestro primer usuario podemos apreciar varios puntos clave que demuestran una buena usabilidad:
 
-* Eficacia de la Jerarquía Visual: La zona central, donde se encuentran el slogan y los cuatro botones principales de acción , muestra una concentración de calor máxima. Esto es bueno, ya que indica que hemos conseguido guiar la atención del usuario directamente hacia los objetivos de conversión del negocio (reservar y pedir) en los primeros segundos.
+* Eficacia de la Jerarquía Visual: La zona central, donde se encuentran el eslogan y los cuatro botones principales de acción, muestra una concentración de calor máxima. Esto es bueno, ya que indica que hemos conseguido guiar la atención del usuario directamente hacia los objetivos de conversión del negocio (reservar y pedir) en los primeros segundos.
 
 * Equilibrio Visual y Contenido Emocional: Se observa un flujo visual orgánico que salta correctamente entre el texto principal y la imagen del producto. La imagen del sushi actúa como un "gancho visual" efectivo sin distraer, permitiendo que el usuario se centre rápidamente en las opciones de navegación inferiores.
 
