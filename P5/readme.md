@@ -238,7 +238,7 @@ Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas
 
 Conclusión de la categoría: La estructura técnica cumple con el estándar visual actual, pero requiere una limpieza de la semántica del código para asegurar que la aplicación sea robusta y compatible con futuros navegadores o dispositivos.
 
-## 6. Conclusiones y Recomendaciones (Actionable Insights)
+## 6. Conclusiones y Recomendaciones
 
 A continuación se clasifican las propuestas de mejora técnica y diseño según su nivel de prioridad tras analizar conjuntamente los datos de usabilidad cuantitativos, cualitativos y biométricos:
 
