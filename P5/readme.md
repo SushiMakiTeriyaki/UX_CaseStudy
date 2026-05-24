@@ -129,8 +129,8 @@ En este caso podemos apreciar que el principal foco es la parte superior del log
 
 ##### Participante: P4
 
-<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/57280b9b-1845-4c8b-8575-43f6942804db" />
-<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/99304365-ca4e-4de3-b11d-828fbdca9e9f" />
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/651a9a65-9ab4-4250-8d01-2c70d768fe62" />
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/685beb21-5a78-48e7-a5bd-1d048ed2b362" />
 
 En este caso el usuario se ha centrado en toda la pantalla principal en general, pasando de forma muy rápida y con pocos puntos de calor por la parte superior del logo y la cabecera. La atención se encuentra mucho más concentrada en la zona media en las acciones de "¿Qué quieres hacer?" junto con los botones principales y el eslogan, y también de forma muy destacada en la parte inferior sobre las recomendaciones (Galaxy Matcha) y la tarjeta de eventos ("Noches Indie Acústicas") fijando la mirada en su título y fecha. 
 
