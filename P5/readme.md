@@ -15,7 +15,7 @@ Caso Asignado: 1º
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: Si
 * Condiciones de Iluminación: Luz natural
-* Dispositivo de la prueba: Portátil 13
+* Dispositivo de la prueba: Portátil 13"
 * Resolución de Pantalla: 1920x1080
 
 ##### Participante: P2
@@ -31,7 +31,7 @@ Caso Asignado: 1º
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: Si
 * Condiciones de Iluminación: Luz natural
-* Dispositivo de la prueba: Portátil 13
+* Dispositivo de la prueba: Portátil 13"
 * Resolución de Pantalla: 1920x1080
 
 ##### Participante: P3
@@ -47,7 +47,7 @@ Caso Asignado: 1º
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: No
 * Condiciones de Iluminación: Luz natural
-* Dispositivo de la prueba: Portátil 13
+* Dispositivo de la prueba: Portátil 13"
 * Resolución de Pantalla: 1920x1080
 
 ##### Participante: P4
@@ -63,7 +63,7 @@ Caso Asignado: 2º
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: No
 * Condiciones de Iluminación: Luz natural
-* Dispositivo de la prueba: Portátil 23
+* Dispositivo de la prueba: Portátil 23"
 * Resolución de Pantalla: 1920x1080
 
 ##### Participante: P5
@@ -79,7 +79,7 @@ Caso Asignado: 2º
 Factores Técnicos (Para Eye Tracking)
 * Uso de Gafas/Lentillas: No
 * Condiciones de Iluminación: Luz natural
-* Dispositivo de la prueba: Portátil 23
+* Dispositivo de la prueba: Portátil 23"
 * Resolución de Pantalla: 1920x1080
 
 ### 2. Diseño de la prueba mediante: Eye Tracking
