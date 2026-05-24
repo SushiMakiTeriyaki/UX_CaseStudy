@@ -127,6 +127,21 @@ En este caso el usuario se ha centrado en toda la pantalla principal un general,
 
 En este caso podemos apreciar que el principal foco es la parte superior del logo junto con el buscador de sushi por nombre y el boton de safe, para la parte de filtros se lleva algo menos de atención a pesar de estar justo debajo quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general por todos los productos sin ponerle demasiado foco, se focaliza principalmente en los primeros productos que es la zona donde aparecen dichos productos a la hora de buscarlos con el buscador.
 
+##### Participante: P4
+
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/57280b9b-1845-4c8b-8575-43f6942804db" />
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/99304365-ca4e-4de3-b11d-828fbdca9e9f" />
+
+En este caso el usuario se ha centrado en toda la pantalla principal en general, pasando de forma muy rápida y con pocos puntos de calor por la parte superior del logo y la cabecera. La atención se encuentra mucho más concentrada en la zona media en las acciones de "¿Qué quieres hacer?" junto con los botones principales y el eslogan, y también de forma muy destacada en la parte inferior sobre las recomendaciones (Galaxy Matcha) y la tarjeta de eventos ("Noches Indie Acústicas") fijando la mirada en su título y fecha. 
+
+
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/1df6b170-480f-466a-be9b-763dbd1f6e9b" />
+<img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/bf1a71c5-ce2c-4143-b3d5-e1e1a5b9e54d" />
+
+En este caso podemos apreciar que la parte superior del título de Menú junto con el icono del buscador es visualizado por encima al igual que la parte de filtros de alérgenos que lleva menos de atención quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general haciendo scroll por todos ellos, focalizándose fuertemente en el segundo producto (Orbit Caramel) y lee lo que lleva, y prestando también atención intermedia en los productos anterior y posterior (Galaxy Matcha y Nebula Latte). Al final de la página hace un vistazo muy rápido al Saturno Toast y se fija en el menú inferior de navegación. 
+
+
+
 ### 3.Evaluación caso A o B
 
 A cada participante se le va a preguntar una acción y a todos ellos se le va a preguntar que busque el contacto del restaurante, para la pregunta común se va ha realizar una valoración común.
