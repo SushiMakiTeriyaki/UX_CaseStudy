@@ -143,9 +143,15 @@ Este usuario al igual que el otro no tardo nada en encontrar el botón de pedir.
 
 Este usuario al igual que los anteriores no tardo en identificar donde tenia que hacer click, el proceso de pedido es similar al anterior por lo que entre el resultado de este usuario y el anterior no vario en practicamente nada.
 
+##### Participante 4: Acción Pedir un Galaxy Matcha
+
+Este usuario gracias a su nivel digital alto, localizó el botón "Ver menú" al instante. Al entrar a la carta, fijó la vista en el Galaxy Matcha, leyó que lo que contenía y procedió a realizar una reserva añadiendo dicho producto de forma clara y directa.
+
 ###### Conclusión acción común
 
-La acción común, buscar el contacto del restaurante  no fue complicada para ningún usuario ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista 
+La acción común, buscar el contacto del restaurante  no fue complicada para los usuarios 1, 2 y 3 ya que se cuenta con un boton que te lleva a la zona especifica de contacto. Cabe destacar que el tercer usuario tardo algo más en encontrar el botón ya que no presto demasiada atención a los botones inferiores que te llevan a dicha parte. Esto tiene bastante sentido ya que como vemos en el test de eyes tracking no presta apenas atención a lo que no se ve a primera vista.
+
+El resto de participantes que evalúan el caso B experimentaron una falla crítica de usabilidad. Al intentar buscar el contacto de la cafetería para resolver una duda, se encontraron con que la web de Gravity Brew carece por completo de datos de contacto (no hay teléfono, dirección, email, redes sociales ni un footer informativo).
 
 ### 4. Escala SUS: Cuestionario
 
