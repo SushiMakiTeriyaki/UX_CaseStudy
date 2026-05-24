@@ -138,7 +138,7 @@ En este caso el usuario se ha centrado en toda la pantalla principal un general,
 <img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/1df6b170-480f-466a-be9b-763dbd1f6e9b" />
 <img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/bf1a71c5-ce2c-4143-b3d5-e1e1a5b9e54d" />
 
-En este caso podemos apreciar que la parte superior del título de Menú junto con el icono del buscador es visualizado por encima al igual que la parte de filtros de alérgenos que lleva menos de atención quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general haciendo scroll por todos ellos, focalizándose fuertemente en el segundo producto (Orbit Caramel) y lee lo que lleva, y prestando también atención intermedia en los productos anterior y posterior (Galaxy Matcha y Nebula Latte). Al final de la página hace un vistazo muy rápido al Saturno Toast y se fija en el menú inferior de navegación. 
+En este caso podemos apreciar que la parte superior del título de Menú junto con el icono del buscador es visualizado por encima y que la parte de filtros de alérgenos lleva menos de atención (o ninguna) quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general haciendo scroll por todos ellos, focalizándose fuertemente en el segundo producto (Orbit Caramel) y lee lo que lleva, y prestando también atención intermedia en los productos anterior y posterior (Galaxy Matcha y Nebula Latte). Al final de la página hace un vistazo muy rápido al Saturno Toast y se fija en el menú inferior de navegación. 
 
 
 
