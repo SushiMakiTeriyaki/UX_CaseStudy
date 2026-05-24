@@ -250,12 +250,8 @@ A continuación se clasifican las propuestas de mejora técnica y diseño según
 | **Media** | Sobrecarga de 74 atributos ARIA inyectados en la estructura web móvil. | Refactorizar el archivo HTML reduciendo los roles ARIA artificiales y sustituyendo contenedores genéricos `<div>` y `<span>` por etiquetas semánticas HTML5 nativas (`<header>`, `<nav>`, `<main>`, `<button>`, `<footer>`). |
 | **Baja** | El mapa de calor muestra una Zona de Silencio absoluta en los filtros de alérgenos superiores de la carta. | Incrementar el contraste de fondo de las píldoras de filtrado y añadir micro-animaciones (escala o cambio de color) en el hover/active para hacer los botones más perceptibles y motivar la interacción. |
 
-- Exportación a HTML/React
-- Documentación con Storybook
-- Autoevaluacion del diseño 
-Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
-- Conclusiones
+### Valoración Final del Equipo sobre la Práctica
 
+Hacer esta práctica nos ha servido de mucho para aprender cómo mejorar el diseño y el funcionamiento de una web. Al juntar las notas de los usuarios (con el test SUS), la revisión de fallos con la herramienta WAVE y las imágenes de seguimiento de ojos (Eye Tracking), hemos podido ver muy claro cómo navegan las personas de verdad por nuestra aplicación.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Gracias a los mapas de calor, nos hemos dado cuenta de que hay una gran diferencia entre lo que la gente dice que hace y lo que hace en realidad (como cuando vimos que el usuario ignoró por completo los filtros de arriba y bajó directamente a ver las bebidas). También hemos aprendido que no sirve de nada tener una aplicación con un diseño nocturno muy bonito si luego tiene fallos de lectura o cosas tan graves como que no se encuentren los datos de contacto por ningún lado. Detalles que parecen pequeños, como configurar bien las etiquetas para lectores de pantalla o poner un simple botón de contacto, pueden arruinar del todo la experiencia de un cliente. En conclusión, este trabajo nos ha ayudado mucho a entender que al programar una web siempre hay que pensar primero en facilitar las cosas al usuario final y hacer que la página sea fácil de usar para todo el mundo.
