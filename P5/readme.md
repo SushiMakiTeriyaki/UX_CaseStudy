@@ -238,6 +238,17 @@ Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas
 
 Conclusión de la categoría: La estructura técnica cumple con el estándar visual actual, pero requiere una limpieza de la semántica del código para asegurar que la aplicación sea robusta y compatible con futuros navegadores o dispositivos.
 
+## 6. Conclusiones y Recomendaciones (Actionable Insights)
+
+A continuación se clasifican las propuestas de mejora técnica y diseño según su nivel de prioridad tras analizar conjuntamente los datos de usabilidad cuantitativos, cualitativos y biométricos:
+
+| Prioridad | Hallazgo | Recomendación de Mejora |
+| :--- | :--- | :--- |
+| **Alta (Crítica)** | El cuestionario SUS indica baja facilidad de uso (6.67) y el Eye Tracking muestra el abandono de la tarea común debido a la ausencia total de datos de contacto de la cafetería. | Crear e implementar una sección o página de contacto integrada (incluyendo mapa interactivo, teléfono de soporte, correo y horario de apertura) y vincularla a un botón en el menú de navegación inferior (footer menu). |
+| **Alta (Crítica)** | La auditoría de accesibilidad detecta 3 errores de contraste de texto muy bajo (grises/dorados) sobre el fondo oscuro en los principales componentes. | Modificar la hoja de estilos CSS reemplazando los tonos de color de letra dorados e intermedios por colores más claros o blancos para asegurar una relación mínima de contraste de **4.5:1** (cumpliendo con la norma WCAG AA). |
+| **Media** | Presencia de 1 referencia ARIA rota y 1 etiqueta de formulario huérfana en la estructura del código. | Corregir los atributos `aria-labelledby`/`aria-describedby` para asociarlos a IDs de elementos existentes y utilizar el atributo `for` en las etiquetas `<label>` para vincularlas explícitamente a los inputs. |
+| **Media** | Sobrecarga de 74 atributos ARIA inyectados en la estructura web móvil. | Refactorizar el archivo HTML reduciendo los roles ARIA artificiales y sustituyendo contenedores genéricos `<div>` y `<span>` por etiquetas semánticas HTML5 nativas (`<header>`, `<nav>`, `<main>`, `<button>`, `<footer>`). |
+| **Baja** | El mapa de calor muestra una Zona de Silencio absoluta en los filtros de alérgenos superiores de la carta. | Incrementar el contraste de fondo de las píldoras de filtrado y añadir micro-animaciones (escala o cambio de color) en el hover/active para hacer los botones más perceptibles y motivar la interacción. |
 
 - Exportación a HTML/React
 - Documentación con Storybook
