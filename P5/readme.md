@@ -132,7 +132,7 @@ En este caso podemos apreciar que el principal foco es la parte superior del log
 <img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/651a9a65-9ab4-4250-8d01-2c70d768fe62" />
 <img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/685beb21-5a78-48e7-a5bd-1d048ed2b362" />
 
-En este caso el usuario se ha centrado en toda la pantalla principal en general, pasando de forma muy rápida y con pocos puntos de calor por la parte superior del logo y la cabecera. La atención se encuentra mucho más concentrada en la zona media en las acciones de "¿Qué quieres hacer?" junto con los botones principales y el eslogan, y también de forma muy destacada en la parte inferior sobre las recomendaciones (Galaxy Matcha) y la tarjeta de eventos ("Noches Indie Acústicas") fijando la mirada en su título y fecha. 
+En este caso el usuario se ha centrado en toda la pantalla principal un general, haciendo más énfasis en la parte superior del logo junto con el eslogan central ("Tu pausa entre estrellas") y la ilustración de la taza de café. Sin embargo, en el recorrido con scroll por el resto de la página, la zona intermedia de botones de categorías ("¿Qué quieres hacer?") ha sido un vistazo muy rápido prácticamente sin pararse y sin prestar atención. Por el contrario, en la zona inferior sí que ha puesto bastante atención en el apartado de producto recomendado (Galaxy Matcha) y sobre todo en la sección del próximo evento ("Noches Indie Acústicas"), deteniéndose a leer detenidamente el título y la fecha.
 
 
 <img width="1454" height="1533" alt="imagen" src="https://github.com/user-attachments/assets/1df6b170-480f-466a-be9b-763dbd1f6e9b" />
