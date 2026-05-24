@@ -196,20 +196,22 @@ Análisis del comportamiento: Aunque el Caso B obtiene una buena valoración gen
 
 ### 5. Evaluación de Accesibidad
 
+A continuación se detallan los fallos de accesibilidad detectados en el código y diseño de Gravity Brew, clasificados por las cuatro categorías de las pautas WCAG:
+
 #### Categoría: Perceptible
 
-* Error detectado: Presencia de 3 errores de contraste muy bajo (Very low contrast) localizados en los elementos interactivos principales de la zona superior e inferior de la pantalla. Esto ocurre porque la tipografía tiene un tono gris o dorado que se funde con el fondo oscuro de la interfaz del prototipo. Criterio WCAG incumplido: Criterio 1.4.3 - Contraste mínimo (Nivel AA).
-
+* Error detectado: Presencia de 3 errores de contraste muy bajo (Very low contrast) localizados en los elementos interactivos principales de la zona superior e inferior de la pantalla. Esto ocurre porque la tipografía tiene un tono gris o dorado que se funde con el fondo oscuro de la interfaz del prototipo.
+* Criterio WCAG incumplido: Criterio 1.4.3 - Contraste mínimo (Nivel AA).
 * Impacto de la experiencia: Los usuarios con visión reducida, daltonismo o aquellos que utilicen la aplicación en exteriores con reflejos de luz solar no podrán distinguir ni leer correctamente el texto de los botones o de las secciones secundarias de la cafetería.
 
-Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro #FFFFFF o un crema que se vea bien) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
+Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro o un crema que se vea bien) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
 
 Conclusión de la categoría: Aunque la estética visual es elegante y simula una atmósfera nocturna muy atractiva, se ha sacrificado la legibilidad técnica elemental, generando una barrera perceptiva para usuarios con diversidad funcional visual.
 
 #### Categoría: Operable
 
-* Error detectado: Presencia de 1 error crítico de accesibilidad por "Broken ARIA reference" (Referencia ARIA rota) detectado por WAVE en la estructura de la página. Criterio WCAG incumplido: Criterio 2.1.1 - Teclado (Nivel A) y Criterio 2.4.3 - Orden del foco.
-
+* Error detectado: Presencia de 1 error crítico de accesibilidad por "Broken ARIA reference" (Referencia ARIA rota) detectado por WAVE en la estructura de la página.
+* Criterio WCAG incumplido: Criterio 2.1.1 - Teclado (Nivel A) y Criterio 2.4.3 - Orden del foco.
 * Impacto de la experiencia: Al haber elementos con etiquetas o atributos ARIA mal enlazados en el código, un usuario que intente navegar por la aplicación utilizando exclusivamente el teclado (tecla TAB) o un pulsador adaptado se quedará "atrapado" o el foco saltará de forma caótica, impidiéndole clicar en los botones de "Reservar mesa" o "Ver menú".
 
 Recomendación de mejora: Revisar el código HTML/React de la interfaz y corregir los atributos aria-labelledby o aria-describedby, asegurándose de que apunten a un ID existente y válido en el documento.
@@ -218,8 +220,8 @@ Conclusión de la categoría: El sitio web es interactivo visualmente, pero la p
 
 #### Categoría: Comprensible
 
-* Error detectado: Presencia de 1 Alerta por "Orphaned form label" (Etiqueta de formulario huérfana) en los elementos de entrada o selección de la interfaz. Criterio WCAG incumplido: Criterio 3.3.2 - Etiquetas o instrucciones (Nivel A).
-
+* Error detectado: Presencia de 1 Alerta por "Orphaned form label" (Etiqueta de formulario huérfana) en los elementos de entrada o selección de la interfaz. Criterio WCAG incumplido:
+* Criterio 3.3.2 - Etiquetas o instrucciones (Nivel A).
 * Impacto de la experiencia: Cuando una etiqueta de formulario no está correctamente vinculada a su campo de texto (input), los lectores de pantalla para usuarios sin visión no pueden leer en voz alta qué es lo que hay que rellenar en esa casilla. Esto genera una enorme confusión y errores al intentar introducir datos.
 
 Recomendación de mejora: Enlazar de forma explícita cada etiqueta <label> para solucionar dicho problema.
@@ -228,8 +230,8 @@ Conclusión de la categoría: Los textos generales de la cafetería se entienden
 
 #### Categoría: Robusto
 
-* Error detectado: WAVE detecta una acumulación de 74 elementos ARIA inyectados en un espacio web muy reducido (la pantalla simulada de un teléfono móvil). Criterio WCAG incumplido: Criterio 4.1.2 - Nombre, función, valor (Nivel A).
-
+* Error detectado: WAVE detecta una acumulación de 74 elementos ARIA inyectados en un espacio web muy reducido (la pantalla simulada de un teléfono móvil).
+* Criterio WCAG incumplido: Criterio 4.1.2 - Nombre, función, valor (Nivel A).
 * Impacto de la experiencia: El abuso o la mala implementación de etiquetas ARIA artificiales (creadas en multiples ocasiones de forma automatica por la IA ) crea un software inestable. Provoca que el código no sea "limpio" y que los lectores de pantalla sufran problemas de compatibilidad o interpreten elementos vacíos que confunden al usuario.
 
 Recomendación de mejora: Simplificar el marcado semántico utilizando etiquetas nativas de HTML5 (como <button>, <nav> o <header>) en lugar de saturar el código con contenedores genéricos <div>
