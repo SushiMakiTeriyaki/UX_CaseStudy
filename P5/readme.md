@@ -145,9 +145,9 @@ En este caso podemos apreciar que la parte superior del título de Menú junto c
 <img width="1453" height="1451" alt="Captura desde 2026-05-25 20-18-57" src="https://github.com/user-attachments/assets/48bb8c2b-fdae-4455-a3a5-ed3c5a587220" />
 <img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/4f1afdad-04ba-4897-ae24-69bfec37b100" />
 
-En este caso vemos que ignoró por completo la identidad de marca (el logotipo superior y el eslogan). En su lugar, el foco de máxima atención en la cabecera se concentró en la ilustración de la taza de café (ya que según nos indica es fan del café y le gusta fijarse en ello) y, en menor medida, en el botón "Platos". Es muy destacable que el botón principal de "Reservar mesa" no registró ninguna fijación visual.
+En este caso vemos que ignoró por completo la identidad de marca (el logotipo superior y el eslogan). En su lugar, el foco de máxima atención en la cabecera se concentró en la ilustración de la taza de café (ya que según nos indica es fan del café y le gusta fijarse en ello) y, en menor medida, en el botón "Ver Menú". Es muy destacable que el botón principal de "Reservar mesa" no registró ninguna fijación visual.
 
-En el resto de la página, la sección de categorías ("¿Qué quieres hacer?") fue una zona de silencio casi total, a excepción de una pequeña fijación en el botón "Platos". Por el contrario, el usuario sí se detuvo a observar el producto recomendado (Galaxy Matcha) y mostró un interés moderado en la sección inferior leyendo el título del evento ("Noches Indie Acústicas") y mirando su botón de "Ver más".
+En el resto de la página, la sección de categorías ("¿Qué quieres hacer?") fue una zona pasado por alto, a excepción de una pequeña fijación en el botón "Platos". Por el contrario, el usuario sí se detuvo a observar el producto recomendado (Galaxy Matcha) y mostró un interés moderado en la sección inferior leyendo el título del evento ("Noches Indie Acústicas") y mirando su botón de "Ver más".
 
 <img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/0623ba5d-b491-4c0c-8154-cea7ac76d87f" />
 <img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/78013544-2b2d-44a5-b109-628bdf72cac9" />
