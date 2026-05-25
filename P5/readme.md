@@ -152,6 +152,9 @@ En el resto de la página, la sección de categorías ("¿Qué quieres hacer?") 
 <img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/0623ba5d-b491-4c0c-8154-cea7ac76d87f" />
 <img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/78013544-2b2d-44a5-b109-628bdf72cac9" />
 
+En esta pantalla, el usuario sí prestó atención al título de "Menú" y al logo, pero su mirada se dirigió principalmente al extremo derecho de la barra de búsqueda, concretamente al icono de la lupa (que acumuló un punto de calor muy denso). Los filtros de alérgenos pasaron prácticamente desapercibidos.
+
+Respecto a la carta, el producto Galaxy Matcha fue el elemento que captó la mayor cantidad de atención de toda la prueba, registrando una columna de calor muy intensa sobre su precio (4,80€), descripción y etiquetas. El Orbit Caramel y el Nebula Latte recibieron un interés muy secundario (el primero solo en el texto, ignorando su foto), mientras que el Saturno Toast fue completamente ignorado. Finalmente, la barra de navegación inferior concentró fijaciones muy marcadas, especialmente en los accesos de "Reservas" y "Eventos", lo que demuestra que el usuario exploró activamente el menú inferior para orientarse.
 
 ### 3.Evaluación caso A o B
 
