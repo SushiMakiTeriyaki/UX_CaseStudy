@@ -140,6 +140,15 @@ En este caso el usuario se ha centrado en toda la pantalla principal un general,
 
 En este caso podemos apreciar que la parte superior del título de Menú junto con el icono del buscador es visualizado por encima y que la parte de filtros de alérgenos lleva menos de atención (o ninguna) quizás por que a dicho usuario eso no le interesa. Para la parte de los productos realiza una mirada general haciendo scroll por todos ellos, focalizándose fuertemente en el segundo producto (Orbit Caramel) y lee lo que lleva, y prestando también atención intermedia en los productos anterior y posterior (Galaxy Matcha y Nebula Latte). Al final de la página hace un vistazo muy rápido al Saturno Toast y se fija en el menú inferior de navegación. 
 
+##### Participante: P5
+
+<img width="1453" height="1451" alt="Captura desde 2026-05-25 20-18-57" src="https://github.com/user-attachments/assets/48bb8c2b-fdae-4455-a3a5-ed3c5a587220" />
+<img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/4f1afdad-04ba-4897-ae24-69bfec37b100" />
+
+Al acceder a la pantalla principal, el usuario ignoró el logo y el eslogan superior y focalizó su atención en la ilustración de la taza de café y en la tarjeta del producto recomendado (Galaxy Matcha).
+
+<img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/0623ba5d-b491-4c0c-8154-cea7ac76d87f" />
+<img width="1453" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/78013544-2b2d-44a5-b109-628bdf72cac9" />
 
 
 ### 3.Evaluación caso A o B
@@ -161,6 +170,10 @@ Este usuario al igual que los anteriores no tardo en identificar donde tenia que
 ##### Participante 4: Acción Pedir un Galaxy Matcha
 
 Este usuario gracias a su nivel digital alto, localizó el botón "Ver menú" al instante. Al entrar a la carta, fijó la vista en el Galaxy Matcha, leyó que lo que contenía y procedió a realizar una reserva añadiendo dicho producto de forma clara y directa.
+
+##### Participante 5: Acción Reservar una mesa
+
+Llamativamente, el botón principal "Reservar mesa" de la zona hero no registró fijaciones visuales directas, lo que indica que el usuario no lo identificó de forma inmediata como punto de entrada para la acción. Sin embargo, al navegar hacia la pantalla de carta, localizó el acceso a reservas a través del icono "Reservas" de la barra de navegación inferior, que sí registró uno de los focos de calor más intensos de toda la sesión en esa pantalla. Completó la reserva desde ese punto. El proceso fue exitoso pero no tan directo como en el Participante 1 (Diseño A), ya que el usuario necesitó explorar más la interfaz antes de localizar la vía de acceso correcta, lo que sugiere que el botón "Reservar mesa" del hero podría beneficiarse de mayor prominencia visual para usuarios con perfil más exploratorio.
 
 ###### Conclusión acción común
 
