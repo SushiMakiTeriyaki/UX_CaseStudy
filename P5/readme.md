@@ -173,7 +173,7 @@ Este usuario gracias a su nivel digital alto, localizó el botón "Ver menú" al
 
 ##### Participante 5: Acción Reservar una mesa
 
-Llamativamente, el botón principal "Reservar mesa" de la zona hero no registró fijaciones visuales directas, lo que indica que el usuario no lo identificó de forma inmediata como punto de entrada para la acción. Sin embargo, al navegar hacia la pantalla de carta, localizó el acceso a reservas a través del icono "Reservas" de la barra de navegación inferior, que sí registró uno de los focos de calor más intensos de toda la sesión en esa pantalla. Completó la reserva desde ese punto. El proceso fue exitoso pero no tan directo como en el Participante 1 (Diseño A), ya que el usuario necesitó explorar más la interfaz antes de localizar la vía de acceso correcta, lo que sugiere que el botón "Reservar mesa" del hero podría beneficiarse de mayor prominencia visual para usuarios con perfil más exploratorio.
+Llamativamente, el botón principal "Reservar mesa" no registró visualización directa, lo que puede indicar que el usuario no lo identificó de forma inmediata. Sin embargo, al navegar hacia la pantalla de carta, localizó el acceso a reservas a través del icono "Reservas" de la barra de navegación inferior, que sí registró uno de los focos de calor más intensos de toda la sesión en esa pantalla. Completó la reserva desde ese punto. El proceso fue exitoso pero no tan directo como se esperaba, ya que el usuario necesitó explorar más la interfaz antes de localizar la vía de acceso correcta.
 
 ###### Conclusión acción común
 
