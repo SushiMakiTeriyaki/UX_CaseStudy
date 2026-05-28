@@ -172,6 +172,20 @@ En esta pantalla, el usuario sí prestó atención al título de "Menú" y al lo
 
 Respecto a la carta, el producto Galaxy Matcha fue el elemento que captó la mayor cantidad de atención, registrando una columna de calor muy intensa sobre su precio, descripción y etiquetas. El Orbit Caramel y el Nebula Latte recibieron un interés secundario (mirando solo los ingredientes mientras las fotos eran ignoradas). Finalmente, la barra de navegación inferior concentró fijaciones muy marcadas, especialmente en los accesos de "Reservas" y "Eventos", lo que demuestra que el usuario exploró activamente el menú inferior para orientarse, por lo que podemos concluir que este menú es de gran utilidad.
 
+
+##### Participante: P6
+
+<img width="1443" height="1448" alt="imagen" src="https://github.com/user-attachments/assets/a450669d-7720-4d86-a9c2-638c448648f3" />
+<img width="1443" height="1448" alt="imagen" src="https://github.com/user-attachments/assets/011714d1-3e22-4d3c-b037-a435c54ec859" />
+
+En este caso el usuario realizó un recorrido visual estructurado por la pantalla principal. El logo de Gravity Brew no registró ninguna fijación. El mayor calor en la cabecera se sitúa en el eslogan central, concretamente sobre las palabras "entre estrellas", y en menor medida sobre el subtítulo "Café de especialidad, brunch y eventos nocturnos". La taza de café captó atención moderada. El botón "Ver menú" registró un punto de calor claro justo sobre él, mientras que "Reservar mesa" apenas acumuló atención. En la sección "¿Qué quieres hacer?", el único botón que registró calor notable fue "Eventos"; los demás (Reservar, Menú, Platos) pasaron prácticamente desapercibidos. En la parte inferior, la sección "Recomendados para ti" concentró fijaciones intensas sobre el título, descripción y precio del Galaxy Matcha. La tarjeta del evento "Noches Indie Acústicas" fue la zona que más atención acumuló en toda la pantalla, con puntos de calor muy densos sobre el título del evento, la imagen de fondo, la fecha ("Viernes 21:30") y el botón "Ver más".
+
+
+<img width="1443" height="1448" alt="imagen" src="https://github.com/user-attachments/assets/08e6b8cc-b9a3-4966-84ff-12452c5d6c63" />
+<img width="1443" height="1448" alt="imagen" src="https://github.com/user-attachments/assets/7e488274-3615-4814-bc3b-a16cbee4512f" />
+
+En esta pantalla el usuario ignoró las fotografías de todos los productos y centró su atención exclusivamente en el contenido textual. Los filtros de alérgenos recibieron calor moderado en la zona derecha, especialmente sobre "Veganos" y "Otros alérgenos", mientras que "Sin lactosa" y "Sin gluten" fueron ignorados por completo. El Galaxy Matcha acumuló fijaciones intensas sobre su nombre, descripción y precio. El Orbit Caramel registró un calor muy elevado sobre su nombre, descripción y etiquetas (#Lactosa #Caramelo #Espresso), siendo junto al Galaxy Matcha el producto más analizado. El Nebula Latte también concentró una zona de calor densa sobre su precio (4,20€) y toda su descripción y etiquetas. El Saturno Toast recibió únicamente puntos verdes dispersos sobre el nombre y el precio, sin fijaciones de alta intensidad. En la barra de navegación inferior, los iconos de "Eventos" y "Perfil" acumularon los puntos de calor más marcados, lo que indica que el usuario exploró activamente el menú inferior para orientarse dentro de la aplicación y podemos concluir que este menú es de gran utilidad.
+
 ### 3.Evaluación caso A o B
 
 A cada participante se le va a preguntar una acción y a todos ellos se le va a preguntar que busque el contacto del restaurante, para la pregunta común se va ha realizar una valoración común.
@@ -195,6 +209,10 @@ Este usuario gracias a su nivel digital alto, localizó el botón "Ver menú" al
 ##### Participante 5: Acción Reservar una mesa
 
 Llamativamente, el botón principal "Reservar mesa" no registró visualización directa, lo que puede indicar que el usuario no lo identificó de forma inmediata. Sin embargo, al navegar hacia la pantalla de carta, localizó el acceso a reservas a través del icono "Reservas" de la barra de navegación inferior, que sí registró uno de los focos de calor más intensos de toda la sesión en esa pantalla. Completó la reserva desde ese punto. El proceso fue exitoso pero no tan directo como se esperaba, ya que el usuario necesitó explorar más la interfaz antes de localizar la vía de acceso correcta.
+
+### Participante P6: Acción Ver el próximo evento
+
+Este usuario, gracias a su alto nivel de competencia digital, identificó rápidamente la tarjeta del próximo evento "Noches Indie Acústicas" en la pantalla principal, donde sus fijaciones ya habían registrado interés en la fecha y el botón "Ver más". Accedió al detalle del evento sin dificultad, leyó la información disponible y completó la acción en un tiempo muy reducido y de forma completamente directa.
 
 ###### Conclusión acción común
 
