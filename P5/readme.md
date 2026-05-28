@@ -82,6 +82,22 @@ Factores Técnicos (Para Eye Tracking)
 * Dispositivo de la prueba: Portátil 23"
 * Resolución de Pantalla: 1920x1080
 
+##### Participante: P6
+
+Caso Asignado: 2º 
+* Edad: 24 años
+* Género: Masculino
+* Nivel de Competencia Digital: Alto
+* Rol: Usuario final
+* Experiencia Previa en Estudios de Usabilidad: No
+* Experiencia Previa con Apps Similares: Si
+  
+Factores Técnicos (Para Eye Tracking)
+* Uso de Gafas/Lentillas: No
+* Condiciones de Iluminación: Luz natural
+* Dispositivo de la prueba: Portátil 23"
+* Resolución de Pantalla: 1920x1080
+
 ### 2. Diseño de la prueba mediante: Eye Tracking
 
 ##### Participante: P1
