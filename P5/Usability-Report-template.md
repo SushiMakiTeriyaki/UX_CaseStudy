@@ -22,7 +22,7 @@ Somos un equipo especializado en el análisis de interfaces de usuario y optimiz
   1. **Falta Crítica de Información de Contacto:** El 100% de los usuarios del Caso B fracasó en la tarea común de buscar el contacto del local debido a que la web no incluye ningún número, email, dirección ni redes sociales.
   2. **Bajo Contrase y Ceguera de Elementos Clave:** La tipografía dorada/gris sobre fondo oscuro provocó fallos de visibilidad en elementos esenciales; el botón principal "Reservar mesa" pasó completamente desapercibido para P5 y P6.
   3. **Inactividad en Filtros de Alérgenos:** Los filtros superiores de la carta son ignorados sistemáticamente o reciben mínima atención, comportándose como una zona ineficaz del menú.
-- **Resultado Global:** **Gravity Brew** obtuvo una puntuación SUS de **79.17/100** (Calificación: **Bueno / Good**), quedando por detrás de **Sushi Maki** (Caso A) que obtuvo **83.33/100** (Calificación: **Excelente / Excellent**). Aunque estéticamente es atractiva, el diseño de Gravity Brew presenta debilidades estructurales de usabilidad.
+- **Resultado Global:** **Gravity Brew** obtuvo una puntuación SUS de **79.17/100** (Calificación: **Bueno / Good**). Aunque estéticamente es atractiva, el diseño de Gravity Brew presenta debilidades estructurales de usabilidad.
 
 ---
 
@@ -52,16 +52,6 @@ Los usuarios interactuaron con el prototipo móvil en pantallas de alta resoluci
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-La comparativa directa de usabilidad percibida entre ambas aplicaciones muestra una clara ventaja para nuestra interfaz:
-
-```
-Puntuación SUS:
-[Sushi Maki (Caso A)] ████████████████████ 83.33 (Excelente)
-[Gravity Brew (Caso B)] ███████████████████ 79.17 (Bueno)
-```
-
-### Desglose de Comportamiento e Ítems:
-- **Sushi Maki (Caso A - 83.33):** Logró un rendimiento impecable en la **Pregunta 4** (No requerir soporte técnico) y **Pregunta 10** (Facilidad de aprendizaje inmediato), con una contribución perfecta de 10.0. Demuestra un diseño altamente intuitivo.
 - **Gravity Brew (Caso B - 79.17):** Experimentó una caída significativa en la **Pregunta 3** (Facilidad de uso, 6.67/10) y la **Pregunta 6** (Inconsistencias en el sistema, 7.5/10). La distribución de sus accesos directos y la duplicidad de caminos (botón principal vs menú inferior) desorientaron levemente a los participantes.
 
 ---
