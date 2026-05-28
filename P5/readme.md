@@ -254,7 +254,7 @@ A continuación se detallan los fallos de accesibilidad detectados en el código
 
 * Error detectado: Presencia de 3 errores de contraste muy bajo (Very low contrast) localizados en los elementos interactivos principales de la zona superior e inferior de la pantalla. Esto ocurre porque la tipografía tiene un tono gris o dorado que se funde con el fondo oscuro de la interfaz del prototipo.
 * Criterio WCAG incumplido: Criterio 1.4.3 - Contraste mínimo (Nivel AA).
-* Impacto de la experiencia: Los usuarios con visión reducida, daltonismo o aquellos que utilicen la aplicación en exteriores con reflejos de luz solar no podrán distinguir ni leer correctamente el texto de los botones o de las secciones secundarias de la cafetería.
+* Impacto de la experiencia: Los usuarios con visión reducida, daltonismo o aquellos que utilicen la aplicación en exteriores con reflejos de luz solar no podrán distinguir ni leer correctamente el texto de los botones o de las secciones secundarias de la cafetería. Biométricamente, esto explica por qué participantes como P5 y P6 ignoraron por completo o apenas prestaron atención al botón principal de "Reservar mesa" en la pantalla de inicio.
 
 Recomendación de mejora: Modificar el código de color de la fuente tipográfica en las hojas de estilo CSS. Se debe aumentar la luminosidad del texto (por ejemplo, usando un blanco puro o un crema que se vea bien) para garantizar que se supere la relación de contraste mínima exigida de 4.5:1 sobre el fondo oscuro.
 
@@ -300,7 +300,7 @@ A continuación se clasifican las propuestas de mejora técnica y diseño según
 | **Alta (Crítica)** | La auditoría de accesibilidad detecta 3 errores de contraste de texto muy bajo (grises/dorados) sobre el fondo oscuro en los principales componentes. | Modificar la hoja de estilos CSS reemplazando los tonos de color de letra dorados e intermedios por colores más claros o blancos para asegurar una relación mínima de contraste de **4.5:1** (cumpliendo con la norma WCAG AA). |
 | **Media** | Presencia de 1 referencia ARIA rota y 1 etiqueta de formulario huérfana en la estructura del código. | Corregir los atributos `aria-labelledby`/`aria-describedby` para asociarlos a IDs de elementos existentes y utilizar el atributo `for` en las etiquetas `<label>` para vincularlas explícitamente a los inputs. |
 | **Media** | Sobrecarga de 74 atributos ARIA inyectados en la estructura web móvil. | Refactorizar el archivo HTML reduciendo los roles ARIA artificiales y sustituyendo contenedores genéricos `<div>` y `<span>` por etiquetas semánticas HTML5 nativas (`<header>`, `<nav>`, `<main>`, `<button>`, `<footer>`). |
-| **Baja** | El mapa de calor muestra una Zona de Silencio absoluta en los filtros de alérgenos superiores de la carta. | Incrementar el contraste de fondo de las píldoras de filtrado y añadir micro-animaciones (escala o cambio de color) en el hover/active para hacer los botones más perceptibles y motivar la interacción. |
+| **Baja** | El mapa de calor muestra una zona de muy baja atención general en los filtros de alérgenos superiores de la carta, pasando casi desapercibidos para la mayoría de participantes. | Incrementar el contraste de fondo de las píldoras de filtrado y añadir micro-animaciones (escala o cambio de color) en el hover/active para hacer los botones más perceptibles y motivar la interacción. |
 
 ### Valoración Final del Equipo sobre la Práctica
 
