@@ -5,8 +5,8 @@
 ### Evaluación de usabilidad de la cafetería: Gravity Brew (Caso B)
 
 **Fecha:** 28 de Mayo de 2026  
-**Proyecto Evaluado:** Gravity Brew (Competidor - Caso B) vs. Sushi Maki (Nuestra Aplicación - Caso A)  
-**Enlace a GitHub:** [Repositorio GazeMapping](https://github.com/mgea/GazeMapping)
+**Proyecto Evaluado:** Gravity Brew (Competidor - Caso B)
+**Enlace a GitHub:** [Repositorio GazeMapping]([https://github.com/mgea/GazeMapping](https://github.com/Mamarco13/DIU2_Solanum))
 
 ### Realizado por:
 **Equipo de Evaluación UX/UI - DIU**  
